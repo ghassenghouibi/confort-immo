@@ -1,6 +1,26 @@
-.sat { position: relative; overflow: hidden; border-radius: var(--radius); background: #1d2a1f; user-select: none; }
-.sat img { position: absolute; width: 256px; height: 256px; max-width: none; pointer-events: none; }
-.sat::after { content: ''; position: absolute; inset: 0; background: radial-gradient(ellipse at center, transparent 40%, rgba(11,20,36,.45) 100%); pointer-events: none; }
-.sat-zone { position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); z-index: 1; border-radius: 50%; border: 2px dashed var(--berry); background: rgba(150,193,30,.18); box-shadow: 0 0 0 9999px rgba(11,20,36,.18); }
-.sat-label { position: absolute; left: 16px; top: 16px; z-index: 2; height: 34px; padding: 0 12px; border-radius: var(--radius-sm); background: rgba(255,255,255,.95); color: var(--navy); font-size: 13px; font-weight: 600; display: inline-flex; align-items: center; box-shadow: var(--shadow); }
-.sat-credit { position: absolute; right: 8px; bottom: 6px; z-index: 2; font-size: 10.5px; color: rgba(255,255,255,.8); text-shadow: 0 1px 2px rgba(0,0,0,.6); }
+.sat { position: relative; overflow: hidden; border-radius: var(--radius); background: #1d2a1f; isolation: isolate; }
+.sat-map { position: absolute; inset: 0; z-index: 0; background: #1d2a1f; font: inherit; }
+.sat-full { position: fixed; inset: 0; z-index: 1000; border-radius: 0; }
+
+.sat button { cursor: pointer; }
+.sat-label { position: absolute; left: 12px; top: 12px; z-index: 500; max-width: calc(100% - 200px); height: 36px; padding: 0 12px; border-radius: var(--radius-sm); background: rgba(255,255,255,.95); color: var(--navy); font-size: 13px; font-weight: 600; display: inline-flex; align-items: center; box-shadow: var(--shadow); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; pointer-events: none; }
+
+.sat-switch { position: absolute; right: 12px; top: 12px; z-index: 500; display: flex; padding: 3px; gap: 2px; border-radius: var(--radius-sm); background: rgba(255,255,255,.95); box-shadow: var(--shadow); }
+.sat-switch button { height: 30px; padding: 0 12px; border-radius: var(--radius-sm); font-size: 12px; font-weight: 600; letter-spacing: .06em; text-transform: uppercase; color: var(--ink-2); }
+.sat-switch button.on { background: var(--navy); color: #fff; }
+
+.sat-tools { position: absolute; right: 12px; bottom: 28px; z-index: 500; display: flex; flex-direction: column; border-radius: var(--radius-sm); background: rgba(255,255,255,.95); box-shadow: var(--shadow); overflow: hidden; }
+.sat-tools button { width: 40px; height: 40px; display: inline-flex; align-items: center; justify-content: center; color: var(--navy); border-bottom: 1px solid var(--line); }
+.sat-tools button:last-child { border-bottom: 0; }
+.sat-tools button:hover { background: #eef1f5; }
+
+.sat-hint { position: absolute; left: 50%; bottom: 28px; z-index: 500; transform: translateX(-50%); padding: 6px 12px; border-radius: 999px; background: rgba(11,20,36,.72); color: #fff; font-size: 12px; white-space: nowrap; pointer-events: none; }
+
+.sat .leaflet-control-attribution { background: rgba(255,255,255,.7); font-size: 10.5px; }
+.sat .leaflet-container { cursor: grab; }
+.sat .leaflet-dragging .leaflet-container, .sat .leaflet-dragging { cursor: grabbing; }
+
+@media (hover: none) { .sat-hint { display: none; } }
+@media (max-width: 480px) {
+  .sat-label { top: 56px; max-width: calc(100% - 24px); }
+}

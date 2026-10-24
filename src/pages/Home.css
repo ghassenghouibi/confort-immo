@@ -1,6 +1,6 @@
 /* ---------- Hero cinématique ---------- */
-.hero { position: relative; color: #fff; min-height: 100vh; min-height: 100svh; display: flex; flex-direction: column; justify-content: flex-end; padding-top: 140px; isolation: isolate; overflow: hidden; }
-.hero-bg { position: absolute; inset: 0; z-index: -1; background: var(--navy); }
+.hero { position: relative; color: #fff; min-height: 100vh; min-height: 100svh; display: flex; flex-direction: column; justify-content: flex-end; padding-top: 140px; isolation: isolate; }
+.hero-bg { position: absolute; inset: 0; z-index: -1; background: var(--navy); overflow: hidden; }
 .hero-slide { position: absolute; inset: 0; background-size: cover; background-position: center; opacity: 0; transform: scale(1.04); transition: opacity 1.6s ease; will-change: transform, opacity; }
 .hero-slide.on { opacity: 1; animation: kenburns 9s ease-out forwards; }
 @keyframes kenburns { from { transform: scale(1.04) translate3d(0, 0, 0); } to { transform: scale(1.14) translate3d(-1.5%, -1%, 0); } }
