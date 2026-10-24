@@ -6,10 +6,13 @@ import { formatPrice, type Listing } from '../lib/listings'
 import { proximiteFor } from '../lib/proximite'
 import './ListingsMap.css'
 
-/** Carte des résultats, centrée sur Tunis (Leaflet + OpenStreetMap, sans clé API) */
+/** Carte des résultats, centrée sur Tunis (Leaflet + imagerie satellite Esri, sans clé API) */
 
 const TUNIS: [number, number] = [36.8065, 10.1815]
 const ZOOM = 11
+const ESRI = 'https://server.arcgisonline.com/ArcGIS/rest/services'
+const SAT_URL = `${ESRI}/World_Imagery/MapServer/tile/{z}/{y}/{x}`
+const LABELS_URL = `${ESRI}/Reference/World_Boundaries_and_Places/MapServer/tile/{z}/{y}/{x}`
 
 export default function ListingsMap({ listings, height = 560 }: { listings: Listing[]; height?: number }) {
   const elRef = useRef<HTMLDivElement>(null)
@@ -24,7 +27,8 @@ export default function ListingsMap({ listings, height = 560 }: { listings: List
       if (cancelled || !elRef.current) return
       map = L.map(elRef.current, { center: TUNIS, zoom: ZOOM, scrollWheelZoom: false })
       map.attributionControl.setPrefix(false)
-      L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', { maxZoom: 18, attribution: '© OpenStreetMap' }).addTo(map)
+      L.tileLayer(SAT_URL, { maxZoom: 18, attribution: 'Imagery © Esri' }).addTo(map)
+      L.tileLayer(LABELS_URL, { maxZoom: 18 }).addTo(map)
       listings.forEach((l, i) => {
         const p = proximiteFor(l)
         if (!p) return
