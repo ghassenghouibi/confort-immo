@@ -1,0 +1,2902 @@
+{
+  "source": "https://confort.immo",
+  "date_extraction": "2026-10-23",
+  "total": 75,
+  "nb_vente": 30,
+  "nb_location": 45,
+  "vente": [
+    {
+      "id": 6126,
+      "titre": "Vente Villa Gammarth",
+      "url": "https://confort.immo/property/vente-villa-gammarth",
+      "date_publication": "2025-09-29T08:45:06",
+      "date_modification": "2025-09-29T08:45:06",
+      "statut": [
+        "A vendre"
+      ],
+      "type": [
+        "Villa"
+      ],
+      "localisation": [
+        "Gammarth"
+      ],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "3800000 DT",
+      "adresse": "Golf Gammarth",
+      "details": {
+        "Surface habitable": "1000 m²",
+        "Chambres à coucher": "7",
+        "Salle de bain": "3"
+      },
+      "description": "A vendre villa de maitre independante au Golf Gammarth\n\nNous vous proposons a la vente une villa de maitre situee dans le prestigieux quartier du Golf Gammarth. Cette propriete independante est batie sur deux niveaux avec une surface couverte de 404m2, edifiee sur un terrain de 1000m2.\n\nLa villa est en parfait etat et beneficie d une excellente orientation offrant luminosite et confort toute la journee.\n\nCaracteristiques principales\n\nSurface terrain : 1000m2\n\nSurface batie : 404m2 sur deux niveaux\n\nChauffage central installe\n\nPiscine privee\n\nJardin arbore et soigne\n\nVilla independante sans mitoyennete\n\nL emplacement est ideal pour ceux qui recherchent le calme, la securite et la proximite des commodites haut de gamme de Gammarth.\n\nPour plus d informations ou pour organiser une visite, merci de nous contacter sur le 90 31 39 31",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/09/Picture-7661912-21.jpg",
+        "https://confort.immo/wp-content/uploads/2025/09/Picture-7661912-2.jpg",
+        "https://confort.immo/wp-content/uploads/2025/09/Picture-7661912-8.jpg",
+        "https://confort.immo/wp-content/uploads/2025/09/Picture-7661912-4.jpg",
+        "https://confort.immo/wp-content/uploads/2025/09/Picture-7661912-3.jpg",
+        "https://confort.immo/wp-content/uploads/2025/09/Picture-7661912-2-1.jpg",
+        "https://confort.immo/wp-content/uploads/2025/09/Picture-7661912-1.jpg",
+        "https://confort.immo/wp-content/uploads/2025/09/Picture-7661912-5.jpg",
+        "https://confort.immo/wp-content/uploads/2025/09/Picture-7661912-6.jpg",
+        "https://confort.immo/wp-content/uploads/2025/09/Picture-7661912-11.jpg",
+        "https://confort.immo/wp-content/uploads/2025/09/Picture-7661912-9.jpg",
+        "https://confort.immo/wp-content/uploads/2025/09/Picture-7661912-13.jpg",
+        "https://confort.immo/wp-content/uploads/2025/09/Picture-7661912-14.jpg",
+        "https://confort.immo/wp-content/uploads/2025/09/Picture-7661912-15.jpg",
+        "https://confort.immo/wp-content/uploads/2025/09/Picture-7661912-20.jpg",
+        "https://confort.immo/wp-content/uploads/2025/09/Picture-7661912-19.jpg"
+      ]
+    },
+    {
+      "id": 5968,
+      "titre": "Terrain constructible Chotrana 2",
+      "url": "https://confort.immo/property/terrain-constructible-chotrana-2-2",
+      "date_publication": "2025-08-26T17:38:49",
+      "date_modification": "2025-09-04T21:22:40",
+      "statut": [
+        "A vendre"
+      ],
+      "type": [
+        "Terrain"
+      ],
+      "localisation": [
+        "Soukra"
+      ],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "935000 DT",
+      "adresse": "Chotrana 2, La Soukra",
+      "details": {
+        "Surface habitable": "1100 m²"
+      },
+      "description": "Confort Immo vous propose à la vente, un terrain constructible de 1100m² rectangulaire, dans un quartier résidentiel calme et chic à Chotrana 2.\n\nprix: 850dt/m²\n\nContact: 29795748",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/08/image_1-9.jpg"
+      ]
+    },
+    {
+      "id": 5940,
+      "titre": "vente villa hammamet nord",
+      "url": "https://confort.immo/property/vente-villa-hammamet-nord",
+      "date_publication": "2025-08-26T17:34:04",
+      "date_modification": "2025-09-04T21:22:47",
+      "statut": [
+        "A vendre"
+      ],
+      "type": [
+        "Villa"
+      ],
+      "localisation": [
+        "Hammamet"
+      ],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "5500000 DT",
+      "adresse": "Tunisie, Nabeul, Hammamet, yasmine hammamet",
+      "details": {
+        "Surface habitable": "1400 m²",
+        "Chambres à coucher": "5"
+      },
+      "description": "Vente Villa d’Exception à Hammamet – Vue Mer\n\nconfort immo met à la vente : Villa d’Exception avec Vue Mer à Hammamet\n\nConfort Immo vous propose une somptueuse villa en bord de mer, située dans l’un des plus beaux quartiers de Hammamet. Offrant un accès direct à la plage, cette propriété rare conjugue luxe, confort et tranquillité.",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/08/image_8-7.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_26-6.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_1-8.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_2-8.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_3-8.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_4-9.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_5-8.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_6-8.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_7-8.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_9-7.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_10-7.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_11-7.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_12-7.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_13-7.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_14-7.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_15-7.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_16-7.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_17-7.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_18-7.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_19-7.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_20-7.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_21-6.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_22-6.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_23-6.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_24-6.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_25-6.jpg"
+      ]
+    },
+    {
+      "id": 5932,
+      "titre": "villa la soukra avec piscine",
+      "url": "https://confort.immo/property/villa-la-soukra-avec-piscine",
+      "date_publication": "2025-08-26T17:27:14",
+      "date_modification": "2025-09-04T21:22:55",
+      "statut": [
+        "A vendre"
+      ],
+      "type": [
+        "Villa"
+      ],
+      "localisation": [
+        "Soukra"
+      ],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "3000000 DT",
+      "adresse": "Ariana, La Soukra, La Soukra",
+      "details": {
+        "Surface habitable": "1800 m²",
+        "Chambres à coucher": "3",
+        "Salle de bain": "3"
+      },
+      "description": "Vente Villa de maitre à La Soukra\n\nConfort immo met à la vente une villa s+6 avec piscine d’une superficie de 1800m² à la Soukra ( sidi Frej), dans les environs du showroom « Meubles Intérieurs » , une agréable Villa, unique en son genre, située dans un quartier très discret et doté de villas haut standing.\n\nCette magnifique villa est dotée d’un accès très facile (depuis la route principale) et sans vis à vis.\n\nComposition:\n\n✓ un grand salon – salle à manger bien orienté avec terrasse et donnant directement sur un beau jardin et une magnifique piscine ( 13/6)\n\n✓ une salle d’eau invités\n\n✓ une belle salle de séjour à vue dégagée sur le jardin et la piscine.\n\n✓ une chambre Muti usage ( bureau ou autres)\n\n✓ Une spacieuse cuisine avec terrasse\n\n✓ une salle de sport\n\n✓ une aire bien orientée donnant sur la piscine et le jardin\n\n✓ 3 chambres à coucher bien orientées avec terrasses et a vue dégagée sur la piscine et le jardin\n\n✓ 2 salles de bains\n\n✓ une énorme suite parentale dotée de deux salle de bains ( douche et baignoire) , beaucoup de dressings, d’un salon et d’une belle terrasse.\n\nLa villa est dotée également de:\n\n– jardin grande de 1000 m² gazonné et planté\n\n– Une belle piscine ( 13/6) jamais utilisée\n\n– un barbecue\n\n– un beau studio\n\n– un loge gardien\n\n– un abri pour 8 voitures\n\nPas de vis à vis\n\nTITRE BLEU INDIVIDUEL",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/08/image_1-7.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_4-8.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_5-7.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_6-7.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_7-7.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_2-7.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_3-7.jpg"
+      ]
+    },
+    {
+      "id": 5903,
+      "titre": "Villa marina gammarth",
+      "url": "https://confort.immo/property/villa-marina-gammarth",
+      "date_publication": "2025-08-26T17:23:42",
+      "date_modification": "2025-09-04T21:23:04",
+      "statut": [
+        "A vendre"
+      ],
+      "type": [
+        "Villa"
+      ],
+      "localisation": [
+        "Gammarth"
+      ],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "2800000 DT",
+      "adresse": "Tunis, La Marsa, Gammarth",
+      "details": {
+        "Surface habitable": "450 m²",
+        "Chambres à coucher": "3",
+        "Salle de bain": "3"
+      },
+      "description": "À VENDRE – Superbe villa à Marina Gammarth avec vue mer\n\nEmplacement privilégié : Marina Gammarth\n\nUn cadre de vie prestigieux alliant calme, sécurité et proximité des commodités.\n\nCaractéristiques :\n\nTerrain : 450 m²\n\nSurface bâtie : 370 m²\n\nJardin arboré : 250 m²\n\nPrix : 2 800 000 DT\n\nComposition :\n\nRez-de-chaussée :\n\nSalon et séjour spacieux et lumineux\n\nCuisine équipée avec séchoir\n\nDressing\n\nSalle d’eau avec douche\n\nSalle d’eau invités\n\nAccès direct au jardin\n\nSous-sol :\n\nGrand dressing\n\nDébarras\n\nGarage pour 2 voitures\n\n1er étage :\n\n2 chambres avec salle de bain commune\n\nSuite parentale comprenant :\n\nChambre avec balcon\n\nDressing\n\nSalle de bain avec double vasque\n\n2ème étage :\n\nBalcon avec vue imprenable sur la mer\n\nPour plus d’informations ou organiser une visite, n’hésitez pas à nous contacter.",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/08/image_24-5.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_13-6.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_14-6.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_15-6.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_16-6.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_17-6.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_18-6.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_19-6.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_20-6.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_22-5.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_25-5.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_26-5.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_27-5.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_28-4.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_1-6.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_3-6.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_4-7.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_5-6.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_6-6.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_7-6.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_21-5.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_23-5.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_2-6.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_8-6.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_9-6.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_10-6.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_11-6.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_12-6.jpg"
+      ]
+    },
+    {
+      "id": 5867,
+      "titre": "Villa gammarth marina",
+      "url": "https://confort.immo/property/villa-gammarth-marina",
+      "date_publication": "2025-08-26T17:19:39",
+      "date_modification": "2025-09-04T21:23:12",
+      "statut": [
+        "A vendre"
+      ],
+      "type": [
+        "Villa"
+      ],
+      "localisation": [
+        "Gammarth"
+      ],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "5500000 DT",
+      "adresse": "Tunis, La Marsa, Gammarth",
+      "details": {
+        "Surface habitable": "350 m²",
+        "Chambres à coucher": "3",
+        "Salle de bain": "1"
+      },
+      "description": "À Vendre – Superbe Villa à Marina Gammarth\n\nDécouvrez cette élégante villa située dans le prestigieux quartier de Marina Gammarth, offrant un cadre de vie exceptionnel alliant confort, espace et modernité.\n\nCaractéristiques :\n\nSuperficie du terrain : 700 m²\n\nSurface bâtie : 350 m²\n\nSalon spacieux et lumineux\n\nSéjour convivial\n\nCuisine moderne et équipée\n\nChambre de service avec salle d’eau (douche)\n\nSéchoir\n\nSalle d’eau pour invités\n\nÀ l’étage :\n\nSuite parentale avec salle de bain (baignoire) et dressing\n\nDeux chambres à coucher, chacune avec balcon\n\nSalle de bain commune avec baignoire et douche\n\nExtérieur et commodités :\n\nGarage pour 2 voitures avec porte électrique\n\nClimatisation centrale\n\nChauffage central\n\nPrix demandé : 5 500 000 DT\n\nUne villa idéale pour ceux qui recherchent un cadre de vie haut de gamme dans un environnement sécurisé et recherché.",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/08/image_27-4.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_1-5.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_2-5.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_3-5.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_4-6.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_5-5.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_6-5.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_7-5.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_8-5.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_9-5.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_10-5.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_11-5.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_12-5.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_13-5.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_14-5.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_15-5.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_16-5.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_17-5.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_18-5.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_19-5.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_20-5.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_21-4.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_22-4.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_23-4.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_24-4.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_25-4.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_26-4.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_28-3.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_29-3.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_30-3.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_31-2.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_32-2.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_33-2.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_34-2.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_35-2.jpg"
+      ]
+    },
+    {
+      "id": 5846,
+      "titre": "Vente penthouse les berges du lac 2",
+      "url": "https://confort.immo/property/vente-penthouse-les-berges-du-lac-2",
+      "date_publication": "2025-08-26T17:15:19",
+      "date_modification": "2025-09-01T20:47:39",
+      "statut": [
+        "A vendre"
+      ],
+      "type": [
+        "Appartement"
+      ],
+      "localisation": [
+        "Les berges du lac"
+      ],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "1350000 DT",
+      "adresse": "Tunis, La Marsa, Les berges du lac 2",
+      "details": {
+        "Surface habitable": "201 m²",
+        "Chambres à coucher": "3"
+      },
+      "description": "À Vendre Penthouse avec Vue Panoramique | Berges du Lac 2\n\n– Confort Immo vous propose à la vente un élégant penthouse partiellement rénové, situé au 3eme et dernier étage d’une résidence de standing aux Berges du Lac 2, avec une vue imprenable sur le lac.\n\n* Caractéristiques :\n\nDouble salon lumineux avec salle à manger\n\nGrande terrasse de 150 m² avec vue dégagée sur le lac\n\nSalle d’eau pour les invités\n\nCuisine équipée avec séchoir\n\nChambre de service\n\nSuite parentale avec salle de bain privative\n\nDeux chambres à coucher supplémentaires\n\nSalle de douche commune\n\nDeux places de parking en sous-sol\n\nUn cellier\n\n -Surface habitable : 201 m² + terrasse de 150 m²\n\n– Loyer mensuel :1350.000dt\n\n– Pour plus d’informations ou pour planifier une visite, contactez-nous",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/08/image_3-4.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_4-5.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_5-4.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_6-4.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_7-4.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_8-4.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_9-4.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_10-4.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_11-4.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_12-4.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_13-4.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_14-4.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_15-4.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_16-4.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_17-4.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_18-4.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_19-4.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_20-4.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_1-4.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_2-4.jpg"
+      ]
+    },
+    {
+      "id": 5305,
+      "titre": "Fonds de commerce jardins de carthage",
+      "url": "https://confort.immo/property/fonds-de-commerce-jardins-de-carthage",
+      "date_publication": "2025-06-12T21:48:44",
+      "date_modification": "2025-09-01T20:47:50",
+      "statut": [
+        "A vendre"
+      ],
+      "type": [
+        "Bureau de Commerces"
+      ],
+      "localisation": [
+        "Tunis"
+      ],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "180000 DT",
+      "adresse": "Tunis, El Kram, Les jardins de Carthage",
+      "details": {
+        "Surface habitable": "63 m²",
+        "Chambres à coucher": "1"
+      },
+      "description": "Vente fonds de commerce aux Jardins de Carthage\n\nConfort Immo vous propose la vente d’un fonds de commerce de 63m² pour toutes activités commerciale, avec une façade de 10m, une kitchenette et des toilettes, très bien situé sur une artère principale aux Jardins de Carthage.\n\nPrix de location actuelle: 2800dt/mois\n\nPrix de vente: 180000dt",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_805173_property_xlarge.jpeg"
+      ]
+    },
+    {
+      "id": 4876,
+      "titre": "VILLA MANAR 1",
+      "url": "https://confort.immo/property/villa-manar-1",
+      "date_publication": "2025-06-11T22:16:13",
+      "date_modification": "2025-07-23T19:53:48",
+      "statut": [
+        "A vendre"
+      ],
+      "type": [
+        "Villa"
+      ],
+      "localisation": [],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "1500000 DT",
+      "adresse": "Tunis, El Menzah, El Menzah 1",
+      "details": {
+        "Surface habitable": "750 m²",
+        "Chambres à coucher": "3"
+      },
+      "description": "Vente Villa de Maitre Manar 1\n\nConfort immo propose à la vente une villa indépendante de 750 m2 avec Piscine bien situé à Manar 1.\n\nNous mettons en vente une belle villa faisant l’angle de 2 Rues et située dans l’un des plus beaux quartiers de MANAR 1.\n\nElle se compose comme suit:\n\n1/ R.D.C\n\n▪Un spacieux Salon avec double hauteur\n\n▪Une Salle à manger\n\n▪Une Grande Cuisine bien équipée\n\n▪Une Salle d’eau\n\n▪Une Chambre de service\n\n2/ 1er Demi niveau\n\n▪Une grande suite avec Salle de bain et dressings privés\n\n▪Une salle d’eau invités\n\n3/ 2éme Demi niveau\n\n▪ Une Suite parentale dotée de tout le confort nécessaire.\n\n▪ Une 2éme suite avec dressings et Salle de Bain.\n\n4/ SOUS SOL\n\n▪ Salle multi-usage\n\n▪ Local technique\n\nLa villa est dotée également :\n\n– Un Grand Jardin avec Piscine avec jacuzzi\n\n– Un garage pour 4 voitures\n\n– Un loge Gardien avec douche\n\n– Chauffage central\n\n– Climatisation\n\nTitre Bleu Individuel",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_800031_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_800050_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_800048_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_800047_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_800046_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_800045_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_800042_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_800040_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_800039_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_800038_property_xlarge.jpeg"
+      ]
+    },
+    {
+      "id": 4865,
+      "titre": "VILLA CARTHAGE HANNIBAL",
+      "url": "https://confort.immo/property/villa-carthage-hannibal",
+      "date_publication": "2025-06-11T22:13:06",
+      "date_modification": "2025-07-23T19:53:50",
+      "statut": [
+        "A vendre"
+      ],
+      "type": [
+        "Villa"
+      ],
+      "localisation": [],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "1 DT",
+      "adresse": "Tunis, Carthage, Carthage",
+      "details": {
+        "Surface habitable": "800 m²",
+        "Chambres à coucher": "4"
+      },
+      "description": "Confort Immo vous propose à la vente une villa de maitre très bien située à Carthage Hannibal avec une vue mer.\n\nElle se compose comme suit:\n\nRdc: hall d’entrée, salon avec cheminée, salle à manger, salle d’eau invités, cuisine non aménagée\n\nSous-sol:\n\nSalon, cuisine 2 débarras chbre service garage 2 places\n\nEtage: Quatre suites\n\nElle est équipée par:\n\nAcsenceur, chauffage et climatisation centrale et un Jardin",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_802228_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_802237_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_802236_property_xlarge-1.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_802236_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_802235_property_xlarge-1.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_802235_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_802230_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_802229_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_802226_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_802225_property_xlarge.jpeg"
+      ]
+    },
+    {
+      "id": 4853,
+      "titre": "VILLA INDEPENDANTE S+5 A MENZAH 8",
+      "url": "https://confort.immo/property/villa-independante-s5-a-menzah-8",
+      "date_publication": "2025-06-11T22:10:19",
+      "date_modification": "2025-09-01T07:47:47",
+      "statut": [
+        "A vendre"
+      ],
+      "type": [
+        "Villa"
+      ],
+      "localisation": [
+        "Menzah"
+      ],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "1350000 DT",
+      "adresse": "Ariana, Ariana Ville, El Menzah 8",
+      "details": {
+        "Surface habitable": "500 m²",
+        "Chambres à coucher": "5"
+      },
+      "description": "Nous mettons a la vente à MENZAH 8 , une belle villa qui se présente comme suit :\n\n1/ SUPERFICIE\n\nTerrain : 500 m2\n\nBatie : 560 m2\n\n2/ SOUS SOL\n\nUne cuisine equipée\n\nUne chambre de service\n\nUne salle de bain avec douche\n\nUne Buanderie\n\n4 places de Parking\n\n3/ R.D.C\n\nUne vaste Salon\n\nUne Salle à manger\n\nUne Salle d’eau invités\n\nUne Cuisine équipée\n\nUne salle de séjour\n\nUne Chambre de service\n\n4/ ETAGE\n\nUne Suite Parentale avec tout le confort nécessaire.\n\n4 Chambres à coucher\n\n2 Salles de bains\n\nLa villa est dotée aussi de :\n\nUn magnifique jardin piscinable\n\nUn Barbecue\n\nUn Sondage pour irrigation\n\nUn abris pour 3 voitures\n\nChauffage central\n\nClimatisation\n\nTITRE BLEU INDIVIDUEL\n\nPOUR PLUS DE DéTAILS ET VISITE VEUILLEZ NOUS CONTACTER",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_802319_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_802327_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_802325_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_802323_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_802321_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_802318_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_802317_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_802316_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_802314_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_802313_property_xlarge.jpeg"
+      ]
+    },
+    {
+      "id": 4851,
+      "titre": "Terrain à Chotrana 3",
+      "url": "https://confort.immo/property/terrain-a-chotrana-3",
+      "date_publication": "2025-06-11T22:06:50",
+      "date_modification": "2025-07-23T19:54:20",
+      "statut": [
+        "A vendre"
+      ],
+      "type": [
+        "Terrain"
+      ],
+      "localisation": [],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "615600 DT",
+      "adresse": "Tunis, La Marsa, Les berges du lac 2",
+      "details": {
+        "Surface habitable": "513 m²"
+      },
+      "description": "Nous vous proposons a la vente un terrain de 513m² pour habitation en R2 avec deux façades, très bien situé à Chotrana3.\n\nprix: 1200dt/m²",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_804064_property_xlarge.jpeg"
+      ]
+    },
+    {
+      "id": 4845,
+      "titre": "Appartement s+2 à Ain Zaghouan Nord",
+      "url": "https://confort.immo/property/appartement-s2-a-ain-zaghouan-nord",
+      "date_publication": "2025-06-11T22:05:32",
+      "date_modification": "2025-07-26T13:23:14",
+      "statut": [
+        "A vendre"
+      ],
+      "type": [
+        "Appartement"
+      ],
+      "localisation": [],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "395000 DT",
+      "adresse": "Tunis, Ain Zaghouan, Ain Zaghouan Nord",
+      "details": {
+        "Surface habitable": "127 m²",
+        "Chambres à coucher": "2"
+      },
+      "description": "A vendre un bel appartement s+2 de 127m2 très bien orienté, situé au 7eme étage d’une residence R+8 à Ain Zaghouane Nord.\n\nIl se compose d’un hall d’entrée, un salon, salle a manger une. Usine équipée avec balcon et une petite kitchenette.\n\nLe bloc de nuit comprend deux chambres à coucher avec dressings et une salle de bain commune.\n\nUne place de parking est à la disposition.\n\nprix: 395000mdt non négociable\n\nContact: 29795748",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_805149_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_805166_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_805163_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_805162_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_805150_property_xlarge.jpeg"
+      ]
+    },
+    {
+      "id": 4834,
+      "titre": "VILLA MENZAH 1",
+      "url": "https://confort.immo/property/villa-menzah-1",
+      "date_publication": "2025-06-11T22:03:59",
+      "date_modification": "2025-09-01T07:47:55",
+      "statut": [
+        "A vendre"
+      ],
+      "type": [
+        "Villa"
+      ],
+      "localisation": [
+        "Menzah"
+      ],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "1 DT",
+      "adresse": "Tunis, El Menzah",
+      "details": {
+        "Surface habitable": "600 m²",
+        "Chambres à coucher": "5"
+      },
+      "description": "Confort Immo vous propose à la vente une magnifique villa s+6 sur un Terrain de 507m², environ 600 m² batie bien située dans un quartier chic et residentiel a Menzah 1.\n\nElle se compose comme suit :\n\nRez de chaussé:\n\n-un grand salon ouvert sur le jardin\n\n– une salle à manger avec une double hauteur\n\n– une Cuisine moderne avec un ilot centrale\n\n– une Cuisine externe\n\n– un vaisselier / avec une buanderie\n\nDemi étage :\n\n– un sejour ouvert avec une grande bibliotheque\n\n– une suite parentale avec une grande salle de bain et douche (salle de bain avec douche et bain )\n\n– un grand dressing parentale\n\nA L’Étage :\n\n– un grand séjour/ salle de sport avec une vue panoramique\n\n– un Bureau\n\n– 3 chambres à coucher\n\n– une salle de douche commune\n\nA l’exterieur :\n\n– un grand jardin aménagé\n\n– une salle d eau avec douche pour la piscine\n\n– une chambre de service\n\n– un garage 2 voitures\n\n– loge gardien avec sa salle d’eau (douche)\n\nCette villa dispose du chauffage par le sol, une piscine chauffée et d’une installation domotique\n\npour plus de détails veuillez nous contacter au 25354558 / 29795748",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_805759_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_805768_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_805765_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_805764_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_805760_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_805758_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_805756_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_805752_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_805750_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_805748_property_xlarge.jpeg"
+      ]
+    },
+    {
+      "id": 4822,
+      "titre": "villa indépendante à La Marsa",
+      "url": "https://confort.immo/property/villa-independante-a-la-marsa",
+      "date_publication": "2025-06-11T22:02:08",
+      "date_modification": "2025-09-04T20:56:27",
+      "statut": [
+        "A vendre"
+      ],
+      "type": [
+        "Villa"
+      ],
+      "localisation": [
+        "La marsa"
+      ],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "1 DT",
+      "adresse": "Tunis, El Menzah",
+      "details": {
+        "Surface habitable": "437 m²",
+        "Chambres à coucher": "2",
+        "Salle de bain": "1"
+      },
+      "description": "CONFORT IMMO vous propose la vente d’une villa indépendante qui fait l’angle de deux rues, trés bien située a La Marsa cité Les Pins.\n\nElle est batie sur un terrain de 437m² avec un titre individuel.\n\nElle comprend 260m² de batis repartis comme suit:\n\nRDC: Hall d’entrée, séjour, double salons, salle a manger, salle d’eau invités, cuisine et garage.\n\nEtage: suite, deux chambres a coucher et salle de bain commune\n\nsous-sol: une grande salle avec des toilettes.\n\nContact: 29 795 748/ 25 35 45 58",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_808163_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_808183_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_808181_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_808167_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_808164_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_808162_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_808161_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_808160_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_808156_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_808152_property_xlarge.jpeg"
+      ]
+    },
+    {
+      "id": 4812,
+      "titre": "Local commercial à La Soukra",
+      "url": "https://confort.immo/property/local-commercial-a-la-soukra",
+      "date_publication": "2025-06-11T22:00:36",
+      "date_modification": "2025-09-01T07:46:30",
+      "statut": [
+        "A vendre"
+      ],
+      "type": [
+        "Bureau de Commerces"
+      ],
+      "localisation": [
+        "Soukra"
+      ],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "180000 DT",
+      "adresse": "Ariana, La Soukra",
+      "details": {
+        "Surface habitable": "650 m²",
+        "Chambres à coucher": "3"
+      },
+      "description": "ConfortImmo vous propose l’aquisition d’un local commercial sur une artére pricipale de 650m² sur deux niveaux (rdc et 1er étage) trés bien situé à La Soukra Dar Fadhal.\n\nle Local est neuf et viens d’etre aménagé et idéal pour toutes activités commerciale.\n\nPrix de pas-de-porte: 180000dt\n\nPrix de la location actuelle: 7000dt/mois TTC\n\nContact: 29795748",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_809821_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_809832_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_809831_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_809830_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_809828_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_809826_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_809823_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_809822_property_xlarge.jpeg"
+      ]
+    },
+    {
+      "id": 4806,
+      "titre": "Appartement s+4 a Mutuelleville",
+      "url": "https://confort.immo/property/appartement-s4-a-mutuelleville",
+      "date_publication": "2025-06-11T21:57:34",
+      "date_modification": "2025-09-01T07:51:08",
+      "statut": [
+        "A vendre"
+      ],
+      "type": [
+        "Appartement"
+      ],
+      "localisation": [
+        "Mutuelle Ville"
+      ],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "895000 DT",
+      "adresse": "Tunis, El Menzah, Mutuelle Ville",
+      "details": {
+        "Surface habitable": "220 m²",
+        "Chambres à coucher": "4"
+      },
+      "description": "Confort Immo vous propose a la vente, un appartement s+4 dans une résidence R+4 avec deux appartements par palier, au troixieme étage avec un emplacement stratégique à Mutuelleville.\n\nIl comprend, un salon salle a manger, une cuisine équipée avec sechoir et une chambre de service, une salle d’eau invités avec douche, une suite parentale avec baignoire et douche ainsi qu’un dressig-room et trois chambres a coucher avec salle de bain commune.\n\nIl dispose du chauffage central, de la climatisation centrale, d’une place de parking au saous-sol et un cellier.",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_830676_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_830682_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_830680_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_830674_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_830670_property_xlarge.jpeg"
+      ]
+    },
+    {
+      "id": 4800,
+      "titre": "Terrain avec vue mer a Gammarth",
+      "url": "https://confort.immo/property/terrain-avec-vue-mer-a-gammarth",
+      "date_publication": "2025-06-11T21:41:11",
+      "date_modification": "2025-09-01T07:45:24",
+      "statut": [
+        "A vendre"
+      ],
+      "type": [
+        "Terrain"
+      ],
+      "localisation": [
+        "Gammarth"
+      ],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "1 DT",
+      "adresse": "Tunis, La Marsa, Gammarth supérieur",
+      "details": {
+        "Surface habitable": "1214 m²"
+      },
+      "description": "Nous vous proposons à la vente un terrain constructible de 1214m² en deuxième position par apport à la Mer très bien situé, dans un quartier résidentiel à Gammarth supérieur.\n\nPrix: 5500dt/m²",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_814019_property_xlarge.jpeg"
+      ]
+    },
+    {
+      "id": 4795,
+      "titre": "Villa Utique",
+      "url": "https://confort.immo/property/villa-utique",
+      "date_publication": "2025-06-11T21:38:09",
+      "date_modification": "2025-08-30T13:33:15",
+      "statut": [
+        "A vendre"
+      ],
+      "type": [
+        "Villa"
+      ],
+      "localisation": [],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "1350000 DT",
+      "adresse": "Bizerte, Utique, Utique",
+      "details": {
+        "Surface habitable": "6893 m²",
+        "Chambres à coucher": "4"
+      },
+      "description": "Nous mettons en vente une magnifique villa en s+4 sur un terrain de 6893m² , bâtie environ 400m² du coté de Utique à 15min de géant .\n\nelle se compose comme suit:\n\n2 salons, terrasse avec vue, Cuisine avec coin repas, Espace de jeux billard, Bar, débarras\n\n4 suites: 2 junior,1 parentale avec dressing et une invité\n\nChambre de service avec salle d’eau\n\nCourt cuisine\n\nVitres double vitrage avec moustiquaire\n\nChauffage électrique importé\n\nSondage avec compteur indépendant\n\nCiterne d’eau douce\n\nJardin (possibilité de bâtir piscine\n\nDouche WC débarras et coin cuisine pour piscine)\n\nChambre externe pour matériel jardin, parking indépendant pour 7/8 voiture ,abris pour 2 places.",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_815113_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_815119_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_815106_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_815105_property_xlarge.jpeg"
+      ]
+    },
+    {
+      "id": 4775,
+      "titre": "A01 S+1 au RDC",
+      "url": "https://confort.immo/property/a01-s1-au-rdc",
+      "date_publication": "2025-06-11T21:33:33",
+      "date_modification": "2025-09-01T07:53:53",
+      "statut": [
+        "A vendre"
+      ],
+      "type": [
+        "Appartement"
+      ],
+      "localisation": [
+        "L’aouina"
+      ],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "306006 DT",
+      "adresse": "Tunis, Ain Zaghouan, El aouina",
+      "details": {
+        "Surface habitable": "67.93 m²",
+        "Chambres à coucher": "1"
+      },
+      "description": "S+1 à el Aouina",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_817104_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_817106_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_817105_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_817103_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_817102_property_xlarge-1.jpeg"
+      ]
+    },
+    {
+      "id": 4764,
+      "titre": "Villa indépendante aux Jardins de Carthage",
+      "url": "https://confort.immo/property/villa-independante-aux-jardins-de-carthage",
+      "date_publication": "2025-06-11T21:31:06",
+      "date_modification": "2025-08-30T13:33:27",
+      "statut": [
+        "A vendre"
+      ],
+      "type": [
+        "Villa"
+      ],
+      "localisation": [],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "2500000 DT",
+      "adresse": "Jardins De Carthage",
+      "details": {
+        "Surface habitable": "703 m²",
+        "Chambres à coucher": "5",
+        "Salle de bain": "2"
+      },
+      "description": "Confort Immo propose à la vente une villa independante d’une superficie de 703m² bien situé dans un quartier residentiel et chic aux Jardins de Carthage.\n\nElle se compose comme suit :\n\nAu rez-de-chaussée :\n\n-Jardin\n\n-Salon\n\n-Hall\n\n-Suite\n\n-Cuisine\n\n-Terrasse\n\nA L’etage:\n\n-3 chambres\n\n– deux salle de bain,\n\n-2 dressings\n\n-Suite\n\n– terrasse\n\nPour plus de détails et visite veuillez nous contacter",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_817564_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_817585_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_817575_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_817570_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_817563_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_817559_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_817550_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_817546_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_818301_property_xlarge.jpeg"
+      ]
+    },
+    {
+      "id": 4753,
+      "titre": "Vente appartement s+2 aux jrdins de carthage",
+      "url": "https://confort.immo/property/vente-appartement-s2-aux-jrdins-de-carthage",
+      "date_publication": "2025-06-11T21:27:51",
+      "date_modification": "2025-09-01T20:48:26",
+      "statut": [
+        "A vendre"
+      ],
+      "type": [
+        "Appartement"
+      ],
+      "localisation": [],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "540000 DT",
+      "adresse": "Tunis, El Kram, Les jardins de Carthage",
+      "details": {
+        "Surface habitable": "126 m²",
+        "Chambres à coucher": "2"
+      },
+      "description": "Vente appartement s+2 aux Jardins de Carthage\n\nConfort immo propose à la vente un bel appartement s2 situé au 4éme et dernier étage d’une résidence ultras sécurisée sur une artère principale aux Jardins de Carthage.\n\nA l’entrée, on trouve un hall d’entrée, un grand salon, une salle a manger donnant sur une belle terrasse avec vue dégagée, une cuisine équipée avec séchoir et une salle d’eau avec une douche à l’italienne et deux chambres à coucher avec balcon.\n\nL’appartement dispose du chauffage central, de la climatisation en split, 2 places de parking au sous-sol ainsi qu’un vidéophone.\n\nPour plus de détails veuillez nous contacter",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_818291_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_818301_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_818286_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_818299_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_818297_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_818296_property_xlarge-1.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_818296_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_818294_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_818292_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_818290_property_xlarge.jpeg"
+      ]
+    },
+    {
+      "id": 4742,
+      "titre": "Villa indépendante à Manzah 9A",
+      "url": "https://confort.immo/property/villa-independante-a-manzah-9a",
+      "date_publication": "2025-06-11T21:25:06",
+      "date_modification": "2025-07-23T19:55:59",
+      "statut": [
+        "A vendre"
+      ],
+      "type": [
+        "Villa"
+      ],
+      "localisation": [],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "1 DT",
+      "adresse": "Tunis, El Menzah, El Menzah 9",
+      "details": {
+        "Chambres à coucher": "5"
+      },
+      "description": "Confort Immo vous propose à la vente, une magnifique villa batie sur deux niveaux sur une artére principale à El Manzah 9A limite Manar 2.\n\nSuperficie terrain: 417m² avec un titre individuel\n\nSuperficie batie: 400 sur deux niveaux\n\nGarage pour trois voitures\n\nPiscine\n\nDouble salon\n\nSalle a manger\n\nDeux sejours\n\nCuisine principale et cuisine de préparation\n\nDeux suites\n\nTrois chambres\n\nSuite de service\n\nContact: 25354558/29795748",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_819632_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_819634_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_819633_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_819630_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_819629_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_819628_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_819627_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_819625_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_819624_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_819622_property_xlarge.jpeg"
+      ]
+    },
+    {
+      "id": 4731,
+      "titre": "Appartement s+3 au RDC aux Jardins de Carthage",
+      "url": "https://confort.immo/property/appartement-s3-au-rdc-aux-jardins-de-carthage",
+      "date_publication": "2025-06-11T21:22:18",
+      "date_modification": "2025-07-23T19:56:05",
+      "statut": [
+        "A vendre"
+      ],
+      "type": [
+        "Appartement"
+      ],
+      "localisation": [],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "950000 DT",
+      "adresse": "Tunis, El Kram, Les jardins de Carthage",
+      "details": {
+        "Surface habitable": "220 m²",
+        "Chambres à coucher": "3"
+      },
+      "description": "Confort Immo vous propose la vente d’un vaste appartement s+3, situé au RDC d’une petite résidence R+4 a proximité de l’ISC.\n\nL’appartement fait 220m² burut ainsi que 46m² terrasses avec une place parking sous-sol et un cellier.\n\nIl comprend, un grand salon, salle a mange qui donne sur un e belle terrsse, une salle d’eau invité et une cuisine équipée avec sechoir.\n\nLe bloque de nuit comporte une suite parentale, deux chambres a coucher et une salle de bain commune.\n\nContact: 29795748/25354558",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_823090_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_823098_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_823074_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_823097_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_823096_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_823095_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_823094_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_823091_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_823087_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_823084_property_xlarge.jpeg"
+      ]
+    },
+    {
+      "id": 4718,
+      "titre": "Villa jumelee a la soukra",
+      "url": "https://confort.immo/property/villa-jumelee-a-la-soukra",
+      "date_publication": "2025-06-11T21:19:48",
+      "date_modification": "2025-09-01T20:48:51",
+      "statut": [
+        "A vendre"
+      ],
+      "type": [
+        "Appartement"
+      ],
+      "localisation": [
+        "Soukra"
+      ],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "1300000 DT",
+      "adresse": "Ariana, La Soukra, La Soukra",
+      "details": {
+        "Surface habitable": "235,5 m²",
+        "Chambres à coucher": "4"
+      },
+      "description": "A VENDRE VILLA JUMELLE LA SOUKRA\n\nConfort Immo vous invite à decouvrir l’excellence de cette somptueuse villa jumelée, incarnant l’élégance et le luxe à leur apogée, nichée dans le prestigieux quartier tranquille de La SOUKRA.\n\nCette villa offre une expérience de vie incomparable, avec :\n\nAu rez de chaussée:\n\n– Un vaste et lumineux salon\n\n– Une élégante salle d’eau invités\n\n– Un espace de séjour raffiné\n\n– Une cuisine spacieuse et parfaitement équipée, agrémentée d’un plan de travail\n\n– Un garage avec portail électrique\n\n– Une grande terrasse ensoleillée s’ouvrant sur un jardin verdoyant\n\n– Une piscine étincelante pour des moments de détente inoubliables\n\nAu 1ER ETAGE :\n\n– Une suite parentale somptueuse avec jacuzzi et dressing privatif\n\n– Deux suites luxueuses avec salles de bains privatives et dressings\n\nAU 2EME ETAGE:\n\n– Une kitchenette entièrement équipée pour plus de commodité\n\n– Une chambre de service pour répondre à tous vos besoins\n\n– Une vaste terrasse offrant une vue imprenable\n\nCaracteristique :\n\n• Superficie bâtie : 260.5 m2\n\n• Terrain : 236.5 m²\n\n• Jardin : 100 m2\n\n• Piscine : 20 m2\n\n• Revêtement en marbre Botticino et travertin pour une touche de raffinement\n\n• Système d’alarme et de surveillance pour une sécurité optimale\n\n• Portes intérieures en bois noble, ajoutant une touche d’élégance\n\n• Porte d’entrée principale pivotante pour un accueil majestueux\n\n• Chauffage central et climatisation split pour un confort optimal en toutes saisons.\n\nPlongez dans un monde de sophistication et de confort inégalé avec cette villa d’exception.\n\nContactez-nous dès maintenant pour découvrir votre future demeure de rêve à La SOUKRA.",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_826990_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_827008_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_827002_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_826998_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_826997_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_826995_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_826994_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_826986_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_826985_property_xlarge.jpeg"
+      ]
+    },
+    {
+      "id": 4707,
+      "titre": "Vente appartement s+3 les berges du lac 2",
+      "url": "https://confort.immo/property/vente-appartement-s3-les-berges-du-lac-2",
+      "date_publication": "2025-06-11T21:16:53",
+      "date_modification": "2025-09-01T20:49:03",
+      "statut": [
+        "A vendre"
+      ],
+      "type": [
+        "Appartement"
+      ],
+      "localisation": [
+        "Les berges du lac"
+      ],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "960000 DT",
+      "adresse": "Tunis, La Marsa, Les berges du lac 2",
+      "details": {
+        "Chambres à coucher": "3"
+      },
+      "description": "Vente Appartement s+3 au berges du lac 2\n\nConfort immo propose à la vente un appartement s+3 d’une superficie de 220m² bien situé dans une résidence bien gardée au berges du lac 2.\n\nil dispose egalement 2 places de parking sous-sol\n\npour plus de détails veuillez nous contacter",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_826102_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_826115_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_826113_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_826112_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_826111_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_826110_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_826109_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_826106_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_826105_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_826104_property_xlarge.jpeg"
+      ]
+    },
+    {
+      "id": 4702,
+      "titre": "Duplex s+4 avec jardin a sidi daoud",
+      "url": "https://confort.immo/property/duplex-s4-avec-jardin-a-sidi-daoud",
+      "date_publication": "2025-06-11T21:14:35",
+      "date_modification": "2025-09-01T20:49:15",
+      "statut": [
+        "A vendre"
+      ],
+      "type": [
+        "Appartement"
+      ],
+      "localisation": [],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "1180000 DT",
+      "adresse": "Tunis, La Marsa, Sidi Daoud",
+      "details": {
+        "Chambres à coucher": "4",
+        "Salle de bain": "1"
+      },
+      "description": "Duplex s4 avec jardin Prés de Carrefour Hyper\n\nConfort Immo vous propose à la vente un Duplex en S4 avec Jardin très bien situé à Sidi Daoud prés de Carrefour Hyper.\n\nSa superficie totale est de 220m² dont 190m² net avec 60m² d’espace extérieur (jardin et un garage privé).\n\nIl se compose comme suit:\n\n-Au rez-de-chaussée:\n\nsalon lumineux qui donne sur le jardin, Séjour , Salle d’eau invités avec douche, Cuisine bien équipée avec séchoir et une Chambre de service.\n\n-A l’étage:\n\nSuite parentale avec dressing, 3 chambres à coucher avec une Salle de bain commune.\n\nIl est équipé par du chauffage central, de la climatisation en Split et d’un garage pour une voiture",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_898066_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_830181_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_898067_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_898071_property_xlarge.jpeg"
+      ]
+    },
+    {
+      "id": 4674,
+      "titre": "Terrain constructible Chotrana 2",
+      "url": "https://confort.immo/property/terrain-constructible-chotrana-2",
+      "date_publication": "2025-06-11T21:12:03",
+      "date_modification": "2025-07-23T19:56:49",
+      "statut": [
+        "A vendre"
+      ],
+      "type": [
+        "Terrain"
+      ],
+      "localisation": [],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "1 DT",
+      "adresse": "Ariana, La Soukra, Chotrana 2",
+      "details": {
+        "Surface habitable": "1100 m²"
+      },
+      "description": "Confort Immo vous propose à la vente, un terrain constructible de 1100m² rectangulaire, dans un quartier résidentiel calme et chic à Chotrana 2.\n\nprix: 850dt/m²\n\nContact: 29795748",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_839087_property_xlarge.jpeg"
+      ]
+    },
+    {
+      "id": 4663,
+      "titre": "Vente villa à Chotrana 2",
+      "url": "https://confort.immo/property/vente-villa-a-chotrana-2",
+      "date_publication": "2025-06-11T20:45:32",
+      "date_modification": "2025-07-23T19:56:56",
+      "statut": [
+        "A vendre"
+      ],
+      "type": [],
+      "localisation": [],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "1700000 DT",
+      "adresse": "Ariana, La Soukra, Chotrana 2",
+      "details": {
+        "Surface habitable": "750 m²",
+        "Chambres à coucher": "4"
+      },
+      "description": "Villa Chotrana 2 terrain 750m2 bâtie 550m2\n\nRdc:\n\nsalon salle à manger séjour/chambre cuisine aménagée salle d’eau invités avec douche\n\nStudio open Space salle d’eau rangement cuisine\n\nÉtage:\n\nhall suite avec dressing et salle de bain et balcon\n\nSuite 2 même que 1\n\nSuite parentale coin séjour dressing balcon\n\nSalle de bain bain douche bain double vasque\n\nChauffage centrale climatisation split",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_839231_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_839277_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_839236_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_839234_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_839233_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_839232_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_839229_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_839224_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_839223_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_839204_property_xlarge.jpeg"
+      ]
+    },
+    {
+      "id": 4619,
+      "titre": "Vente Villa jumelée à la Soukra",
+      "url": "https://confort.immo/property/vente-villa-jumelee-a-la-soukra",
+      "date_publication": "2025-06-11T20:37:50",
+      "date_modification": "2025-09-01T07:46:46",
+      "statut": [
+        "A vendre"
+      ],
+      "type": [
+        "Villa"
+      ],
+      "localisation": [
+        "Soukra"
+      ],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "2650000 DT",
+      "adresse": "Tunisie, Tunis, El Menzah, El Menzah 4",
+      "details": {
+        "Surface habitable": "327 m²",
+        "Chambres à coucher": "3"
+      },
+      "description": "Vente villa jumelée à la Soukra\n\nConfort Immo vous propose à la vente une magnifique villa jumelée avec piscine, neuve en cours de finition située dans une zone résidentielle calme, proche de toutes les commodités, à la Soukra prés de carrefour express.\n\nPour plus d’informations veillez contacter le 90 31 39 31",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_916720_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_916720_property_xlarge-1.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_916721_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_916722_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_916723_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_916724_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_916725_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_916726_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_916727_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_916728_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_916729_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_916730_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_916731_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_916732_property_xlarge.jpeg"
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": 6143,
+      "titre": "Location s+1 meublé aux jardins de la Soukra",
+      "url": "https://confort.immo/property/location-s1-meuble-aux-jardins-de-la-soukra",
+      "date_publication": "2025-09-29T09:05:57",
+      "date_modification": "2025-09-29T09:05:57",
+      "statut": [
+        "A louer"
+      ],
+      "type": [
+        "Appartement"
+      ],
+      "localisation": [
+        "L’aouina"
+      ],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "1300 DT",
+      "adresse": "Les jardins de la Soukra",
+      "details": {
+        "Chambres à coucher": "1",
+        "Salle de bain": "1",
+        "Année de construction": "2024"
+      },
+      "description": "Situé au 2ème étage d’une résidence récente et sécurisée (R5), cet élégant appartement S1 vous séduira par son confort, son mobilier de qualité et son emplacement privilégié à La Nouvelle Soukra, un quartier résidentiel calme, moderne et proche de toutes commodités (centres commerciaux, restaurants, écoles, accès rapide à l’aéroport et aux principaux axes routiers).\n\nCaractéristiques principales :\n\n• Superficie : 50m2\n\n• Salon lumineux avec balcon, décoré avec goût\n\n• Cuisine américaine entièrement équipée (réfrigérateur, four, plaque, hotte, vaisselle…)\n\n• Une chambre à coucher spacieuse avec dressing\n\n• Salle de bain moderne avec douche à l’italienne\n\n• Chauffage central et climatisation split\n\n• Résidence avec ascenseur, gardien, et place de parking disponible\n\nAppartement richement meublé : mobilier contemporain, équipements complets, prêt à vivre.\n\nContactez-nous dès maintenant pour une visite !",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/09/Picture-86189696-1.jpg",
+        "https://confort.immo/wp-content/uploads/2025/09/Picture-86189696-11.jpg",
+        "https://confort.immo/wp-content/uploads/2025/09/Picture-86189696-9.jpg",
+        "https://confort.immo/wp-content/uploads/2025/09/Picture-86189696-5.jpg",
+        "https://confort.immo/wp-content/uploads/2025/09/Picture-86189696-4.jpg",
+        "https://confort.immo/wp-content/uploads/2025/09/Picture-86189696-3.jpg"
+      ]
+    },
+    {
+      "id": 5807,
+      "titre": "Location villa les berges du lac 1",
+      "url": "https://confort.immo/property/location-villa-les-berges-du-lac-1",
+      "date_publication": "2025-08-25T22:42:54",
+      "date_modification": "2025-09-01T20:56:44",
+      "statut": [
+        "A louer"
+      ],
+      "type": [
+        "Villa"
+      ],
+      "localisation": [
+        "Les berges du lac"
+      ],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "7000 DT",
+      "adresse": "Tunis, La Marsa, Les berges du lac 1",
+      "details": {
+        "Surface habitable": "500 m²",
+        "Chambres à coucher": "5",
+        "Salle de bain": "5"
+      },
+      "description": "À louer – Villa aux Berges du Lac 1\n\nVilla haut standing située dans un quartier résidentiel calme et sécurisé.\n\nSurface généreuse avec 5 suites\n\nSalon spacieux, salle à manger\n\nSalle d’eau invités\n\nCuisine équipée\n\nJardin bien entretenu et piscine\n\nLoyer :\n\nMeublée : 12.000 DT/mois\n\nVide : 7.000 DT/mois\n\nPour plus d’informations ou pour organiser une visite, n’hésitez pas à nous contacter.",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/08/image_26-3.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_34-1.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_36-1.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_37-1.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_1-3.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_2-3.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_3-3.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_4-4.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_5-3.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_6-3.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_7-3.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_8-3.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_9-3.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_10-3.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_11-3.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_12-3.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_13-3.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_20-3.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_22-3.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_24-3.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_25-3.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_27-3.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_32-1.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_35-1.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_14-3.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_15-3.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_16-3.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_17-3.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_18-3.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_19-3.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_21-3.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_23-3.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_28-2.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_29-2.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_30-2.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_31-1.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_33-1.jpg"
+      ]
+    },
+    {
+      "id": 5779,
+      "titre": "APPARTEMENT S+3 A LA MARSA A LOUER AVEC VUE",
+      "url": "https://confort.immo/property/appartement-s3-a-la-marsa-a-louer-avec-vue",
+      "date_publication": "2025-08-25T22:35:46",
+      "date_modification": "2025-09-01T20:56:36",
+      "statut": [
+        "A louer"
+      ],
+      "type": [
+        "Appartement"
+      ],
+      "localisation": [
+        "La marsa"
+      ],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "6500 DT",
+      "adresse": "Tunis, La Marsa",
+      "details": {
+        "Surface habitable": "206 m²",
+        "Chambres à coucher": "3",
+        "Salle de bain": "2"
+      },
+      "description": "À Louer – Spacieux Appartement S+3 à La Marsa – Vue Mer\n\nÀ louer un magnifique appartement S+3 de 206 m², situé au 3ème étage d’une résidence sécurisée à La Marsa, avec une vue mer dégagée.\n\nComposition :\n\nUn dressing à l’entrée\n\nUn salon lumineux et une salle à manger avec balcon\n\nUne cuisine totalement équipée avec séchoir\n\nUne salle d’eau pour les invités\n\nUne suite parentale avec dressing et salle de bain avec baignoire\n\nDeux chambres à coucher avec placards\n\nÉquipements et prestations :\n\nDomotique\n\nPorte blindée\n\nFenêtres blindées\n\nChauffage par le sol\n\nRevêtement en marbre\n\nDeux places de parking en sous-sol\n\nLocalisation : La Marsa\n\nSuperficie : 206 m²\n\nLoyer mensuel : 6.500 DT",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/08/image_1-2.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_8-2.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_9-2.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_10-2.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_11-2.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_12-2.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_13-2.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_14-2.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_15-2.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_16-2.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_17-2.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_18-2.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_19-2.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_20-2.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_21-2.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_22-2.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_23-2.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_24-2.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_25-2.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_26-2.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_27-2.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_2-2.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_3-2.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_4-3.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_5-2.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_6-2.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_7-2.jpg"
+      ]
+    },
+    {
+      "id": 5747,
+      "titre": "APPARTEMENT S3 AVEC VUE A LA MARSA",
+      "url": "https://confort.immo/property/appartement-s3-avec-vue-a-la-marsa",
+      "date_publication": "2025-08-25T22:30:23",
+      "date_modification": "2025-08-30T13:30:33",
+      "statut": [
+        "A louer"
+      ],
+      "type": [
+        "Appartement"
+      ],
+      "localisation": [
+        "La marsa"
+      ],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "6000 DT",
+      "adresse": "Tunisie, Tunis, La Marsa, Marsa cube",
+      "details": {
+        "Surface habitable": "206 m²",
+        "Chambres à coucher": "3",
+        "Salle de bain": "2"
+      },
+      "description": "Louer – Appartement S+3 avec Vue Mer à La Marsa \n\nÀ louer un appartement lumineux et bien agencé, situé au 3ème étage d’une résidence sécurisée à La Marsa, avec une belle vue sur la mer.\n\nComposition :\n\nSalon et salle à manger\n\nCuisine semi-ouverte totalement équipée\n\nDressing à l’entrée\n\nChambre 1 avec vue mer\n\nSuite parentale avec vue mer et salle de bain privative\n\nChambre 2\n\nSalle de bain commune\n\nSéchoir\n\nAtouts :\n\nVue mer dégagée\n\nRésidence calme et sécurisée\n\nDeux places de parking en sous-sol\n\nAgencement moderne et fonctionnel\n\nLocalisation : La Marsa\n\nLoyer mensuel : 6.000 DT",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/08/image_4-1.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_30-1.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_29-1.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_28-1.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_27-1.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_26-1.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_25-1.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_24-1.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_23-1.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_22-1.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_21-1.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_20-1.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_19-1.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_18-1.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_17-1.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_16-1.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_15-1.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_14-1.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_13-1.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_12-1.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_11-1.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_10-1.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_9-1.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_8-1.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_7-1.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_6-1.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_5-1.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_4-2.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_3-1.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_2-1.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_1-1.jpg"
+      ]
+    },
+    {
+      "id": 5691,
+      "titre": "villa de luxe avec piscine mutuelle ville",
+      "url": "https://confort.immo/property/villa-de-luxe-avec-piscine-mutuelle-ville",
+      "date_publication": "2025-08-25T22:20:59",
+      "date_modification": "2025-09-01T07:51:16",
+      "statut": [
+        "A louer"
+      ],
+      "type": [
+        "Villa"
+      ],
+      "localisation": [
+        "Mutuelle Ville"
+      ],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "10000 DT",
+      "adresse": "Tunisie, Tunis, El Menzah, Mutuelle Ville",
+      "details": {
+        "Surface habitable": "450 m²",
+        "Chambres à coucher": "3",
+        "Salle de bain": "3"
+      },
+      "description": "Louer – Villa avec piscine, entièrement rénovée à la Mutuelleville\n\nConfort Immo vous propose à la location une splendide villa avec piscine, entièrement rénovée et située dans le très recherché quartier des Ambassades à Mutuelleville. Un cadre de vie paisible, verdoyant et sécurisé.\n\nEmplacement premium – Quartier des AmbassadesTerrain : 1 200 m²\n\nSurface bâtie : 450 m²\n\nLoyer : 10 000 DT / mois\n\nAgencement :\n\n* Rez-de-chaussée :\n\nGrand salon et salle à manger lumineux avec baies vitrées et cheminée\n\nSéjour ouvrant sur la terrasse et le jardin\n\nCuisine moderne entièrement équipée\n\nUne grande chambre avec salle de bain\n\nSalle d’eau invités\n\nChambre de service avec salle d’eau et accès indépendant\n\n* À l’étage :\n\nSuite parentale avec deux dressings, salle de bain et salle d’eau\n\nGrande chambre avec salle de bain attenante\n\nLes + de cette villa d’exception :\n\nPiscine à débordement\n\nJardin paysager avec arrosage automatique\n\nChauffage au sol\n\nClimatisation centrale dans toutes les pièces\n\nGarage fermé pour 2 voitures avec porte automatique\n\nLocal chaudière – Débarras\n\nSystème de vidéosurveillance\n\nConnexion Wi-Fi dans toute la villa",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/08/image_52-1.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_1.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_2.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_3.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_4.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_5.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_6.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_7.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_8.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_52.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_9.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_10.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_11.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_12.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_13.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_14.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_15.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_16.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_17.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_18.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_19.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_20.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_21.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_22.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_23.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_24.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_25.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_26.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_27.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_28.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_29.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_30.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_31.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_32.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_33.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_34.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_35.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_36.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_37.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_38.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_39.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_40.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_41.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_42.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_43.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_44.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_45.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_46.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_47.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_48.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_49.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_50.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_51.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_53.jpg",
+        "https://confort.immo/wp-content/uploads/2025/08/image_54.jpg"
+      ]
+    },
+    {
+      "id": 5319,
+      "titre": "LOCATION ESTIVALE HAMAMMET VUE MER",
+      "url": "https://confort.immo/property/location-estivale-hamammet-vue-mer-2",
+      "date_publication": "2025-06-12T22:58:27",
+      "date_modification": "2025-09-01T07:32:28",
+      "statut": [
+        "A louer"
+      ],
+      "type": [
+        "Location Vacances"
+      ],
+      "localisation": [
+        "Hammamet"
+      ],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "1 DT",
+      "adresse": "Tunisie, Nabeul, Hammamet, Hammamet",
+      "details": {
+        "Surface habitable": "100 m²",
+        "Chambres à coucher": "5"
+      },
+      "description": "LOCATION VILLA ESTIVAL HAMMAMET NORD AVEC VUE MER\n\n Location Estivale – Villa de Prestige Pieds dans l’Eau | Résidence Privée à Hammamet\n\nVivez une expérience unique dans cette somptueuse villa meublée située dans une résidence privée sécurisée, pieds dans l’eau, avec vue mer imprenable et piscine privée.\n\n* Rez-de-chaussée :\n\nSuite avec coin séjour\n\nSalle d’eau pour invités\n\nChambre enfant avec 2 lits une place et salle de douche\n\nSalon spacieux et salle à manger\n\nCuisine équipée avec coin repas\n\nChambre de service avec salle d’eau\n\nGarage pour 4 voitures\n\nGrande terrasse aménagée\n\nCoin repas extérieur\n\nDeux salons de jardin\n\nCoin baroque extérieur\n\nPiscine avec vue sur la mer\n\n* À l’étage :\n\n4 grandes suites confortables avec salle de bain privative\n\n Villa entièrement meublée & bien équipée\n\n Tarif : selon la période et la durée du séjour\n\nPrix par Durée de location :\n\n– Juillet : 55.000 dt\n\n– DU 1er AU 15 Juillet: 28.000dt\n\n– DU 16 AU 31 Juillet : 28.000dt\n\n– Juin / Septembre : 12.000dt/semaine\n\n Contactez-nous en privé pour plus d’informations ou pour réserver dès maintenant.",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1073709_property_large.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1073746_property_large.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1073749_property_large.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1073750_property_large.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1073751_property_large.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1073752_property_large.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1073693_property_large.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1073705_property_large.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1073711_property_large.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1073692_property_large.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1073704_property_large.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1073706_property_large.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1073708_property_large.jpeg"
+      ]
+    },
+    {
+      "id": 5295,
+      "titre": "étage bureautique au berges du lac 1",
+      "url": "https://confort.immo/property/etage-bureautique-au-berges-du-lac-1",
+      "date_publication": "2025-06-12T21:44:42",
+      "date_modification": "2025-09-01T07:41:20",
+      "statut": [
+        "A louer"
+      ],
+      "type": [
+        "Bureau de Commerces"
+      ],
+      "localisation": [
+        "Les berges du lac"
+      ],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "7000 DT",
+      "adresse": "Tunis, La Marsa, Les berges du lac 1",
+      "details": {
+        "Surface habitable": "478 m²",
+        "Chambres à coucher": "12"
+      },
+      "description": "Location Bureau Les berges du lac 1\n\nconfort immo vous propose à la location un étage bureautique d’une superficie de 478m2 occupant le 1ere etage d’un immeuble au berges du lac 1 qui se compose de :\n\n12 bureaux\n\n1 salle de réunion\n\n1 accueil\n\n2 salles d’eaux\n\n1 kitchenette\n\n4 places de parking disponible\n\nPour plus de détails veuillez nous contacter: 21 160 063",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_796413_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_796411_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_796412_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_796414_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_796416_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_796417_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_796418_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_796419_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_796415_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_796677_property_xlarge.jpeg"
+      ]
+    },
+    {
+      "id": 5284,
+      "titre": "APPARTEMENT S+2 LES JARDINS DE CARTHAGE",
+      "url": "https://confort.immo/property/appartement-s2-les-jardins-de-carthage",
+      "date_publication": "2025-06-12T21:43:04",
+      "date_modification": "2025-07-23T19:47:43",
+      "statut": [
+        "A louer"
+      ],
+      "type": [
+        "Appartement"
+      ],
+      "localisation": [
+        "Tunis"
+      ],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "1800 DT",
+      "adresse": "Tunis, El Kram",
+      "details": {
+        "Surface habitable": "120 m²",
+        "Chambres à coucher": "2"
+      },
+      "description": "Location Appartement S+2 aux Jardins de Carthage\n\nConfort Immo met à la location un appartement S+2 situé au dernier étage (4ème) d’une residence bien gardé au jardins de carthage\n\nil se compose comme suit:\n\nun grand salon lumineux donnant sur une terrasse\n\ndeux chambres à coucher avec balcons, une salle de bain séparée,\n\nune cuisine équipée\n\nil dispose du chauffage central, de la climatisation en split et une place de parking au sous sol.",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_829324_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_796677_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_829321_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_829333_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_796672_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_796674_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_796679_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_796680_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_796683_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_829327_property_xlarge.jpeg"
+      ]
+    },
+    {
+      "id": 5273,
+      "titre": "APPARTEMENT S+3 LES BERGES DU LAC 2",
+      "url": "https://confort.immo/property/appartement-s3-les-berges-du-lac-2",
+      "date_publication": "2025-06-12T21:41:38",
+      "date_modification": "2025-09-01T07:41:42",
+      "statut": [
+        "A louer"
+      ],
+      "type": [
+        "Appartement"
+      ],
+      "localisation": [
+        "Les berges du lac"
+      ],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "4300 DT",
+      "adresse": "Tunis, La Marsa, Les berges du lac 2",
+      "details": {
+        "Surface habitable": "250 m²",
+        "Chambres à coucher": "3"
+      },
+      "description": "A LOUER PENTHOUSE VUE SUR LE LAC\n\nConfort Immo vous propose a la location un appartement récemment rénové situé au 3eme et dernier étage d’une résidence avec vue panoramique aux Berges du Lac 2.\n\nIl se compose comme suit:\n\n-un double salon salle à manger\n\n-une terrasse de 150m2 avec une vue panoramique sur le lac\n\n-une salle d’eau invités avec douche\n\n-une cuisine aménagée et équipée avec un coin séjour\n\n-une chambre de service avec débarras\n\n-une suite parentale avec sa propre salle de bain\n\n-deux chambres à coucher\n\n-une salle de bain commune\n\n-deux places de parking sous-sol\n\n-un cellier 16m2\n\nSuperficie bâtie: 201m2 net+espace commun+terrasse 150m2\n\npour plus d informations et photos veuillez nous contacter\n\nau 25 354 558 / 29 795 748 / 21 160 063",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_797388_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_797377_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_797381_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_797373_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_797374_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_797378_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_797383_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_797384_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_797382_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_797387_property_xlarge.jpeg"
+      ]
+    },
+    {
+      "id": 5264,
+      "titre": "APPARTEMENT S+1 LA MARSA STADE",
+      "url": "https://confort.immo/property/appartement-s1-la-marsa-stade",
+      "date_publication": "2025-06-12T21:40:16",
+      "date_modification": "2025-09-01T07:34:06",
+      "statut": [
+        "A louer"
+      ],
+      "type": [
+        "Appartement"
+      ],
+      "localisation": [
+        "La marsa"
+      ],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "1300 DT",
+      "adresse": "Tunis, La Marsa, Cite Du Stade",
+      "details": {
+        "Surface habitable": "70 m²",
+        "Chambres à coucher": "1"
+      },
+      "description": "Appartement s+1 a louer la marsa stade\n\nConfort immo propose à la location un appartement s+1 occpant le 2éme etage d’une résidence R+2 bien située à la marsa\n\nil se compose comme suit :\n\n-salon luminieux\n\n-salle d’eau avec douche\n\n-chambre avec dressing\n\n-cuisine avec sechoir\n\nune place de parking sous sol disponible",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_824492_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_824488_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_824480_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_824491_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_824482_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_824483_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_824484_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_824489_property_xlarge.jpeg"
+      ]
+    },
+    {
+      "id": 5255,
+      "titre": "location immeuble LAC 3",
+      "url": "https://confort.immo/property/location-immeuble-lac-3",
+      "date_publication": "2025-06-12T21:38:11",
+      "date_modification": "2025-09-01T07:41:50",
+      "statut": [
+        "A louer"
+      ],
+      "type": [
+        "Bureau de Commerces"
+      ],
+      "localisation": [
+        "Les berges du lac"
+      ],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "6416 DT",
+      "adresse": "Tunis, El Kram, Le Kram",
+      "details": {
+        "Surface habitable": "350 m²",
+        "Chambres à coucher": "1"
+      },
+      "description": "OPEN SPACE A LOUER LAC 3\n\nConfort immo propose à la location un open Space d’une superficie de 350m² occupant le 2éme etage d’un immeuble au Lac 3 Le kram.\n\nprix: 220dt/m²",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_825860_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_825859_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_825861_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_825862_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_825864_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_825858_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_825863_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_825865_property_xlarge.jpeg"
+      ]
+    },
+    {
+      "id": 5244,
+      "titre": "VILLA A USAGE BUREAUTIQUE A MUTUELLEVILLE",
+      "url": "https://confort.immo/property/villa-a-usage-bureautique-a-mutuelleville",
+      "date_publication": "2025-06-12T21:36:40",
+      "date_modification": "2025-09-01T07:51:40",
+      "statut": [
+        "A louer"
+      ],
+      "type": [
+        "Villa"
+      ],
+      "localisation": [
+        "Mutuelle Ville"
+      ],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "6500 DT",
+      "adresse": "Tunis, El Menzah, Mutuelle Ville",
+      "details": {
+        "Surface habitable": "500 m²",
+        "Chambres à coucher": "5"
+      },
+      "description": "Location Villa usage bureautique à Mutuelleville\n\nConfort Immo propose à la location une villa independante a usage bureuatique bien situé à Mutuelle ville .\n\nElle se compose comme suit:\n\nAu rez de chaussée:\n\n-Hall de réception\n\n-Salle de réunion\n\n-Une grande et petite kitchenette\n\n-WC\n\nA l’etage :\n\n– Standard\n\n-Hall ,salle de réunion\n\n-Salle de direction et un bureau\n\n-Un Open espace\n\n-WC\n\n-bureau\n\npour plus de détails veuillez nous contacter",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_828984_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_828985_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_828994_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_828996_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_829000_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_829002_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_829007_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_828997_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_829003_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_829008_property_xlarge.jpeg"
+      ]
+    },
+    {
+      "id": 5234,
+      "titre": "BUREAU LES BERGES DU LAC 2",
+      "url": "https://confort.immo/property/bureau-les-berges-du-lac-2",
+      "date_publication": "2025-06-12T21:34:56",
+      "date_modification": "2025-09-01T07:42:04",
+      "statut": [
+        "A louer"
+      ],
+      "type": [
+        "Bureau et local"
+      ],
+      "localisation": [
+        "Les berges du lac"
+      ],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "2300 DT",
+      "adresse": "Tunis, La Marsa, Les berges du lac 2",
+      "details": {
+        "Surface habitable": "76.26 m²",
+        "Chambres à coucher": "2"
+      },
+      "description": "À louer – Bureau 77 m² aux Berges du Lac 2\n\nConfort Immo vous propose un bureau moderne et fonctionnel de 77 m², idéalement situé au 1er étage d’une résidence bureautique prestigieuse, au cœur des Berges du Lac 2.\n\nL’espace se compose de :\n\nUn hall d’accueil\n\nDeux bureaux lumineux, dont un avec sanitaires privatifs\n\nUne kitchenette pratique\n\nDes toilettes communes\n\nCe bureau offre un cadre de travail agréable, dans un environnement dynamique et sécurisé, parfait pour vos activités professionnelles.\n\n Contactez-nous dès maintenant pour organiser une visite !",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_831809_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_831815_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_831816_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_831817_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_831818_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_831820_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_831821_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_831823_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_831813_property_xlarge.jpeg"
+      ]
+    },
+    {
+      "id": 5223,
+      "titre": "LOCAL LES BERGES DU LAC 1",
+      "url": "https://confort.immo/property/local-les-berges-du-lac-1",
+      "date_publication": "2025-06-12T21:33:19",
+      "date_modification": "2025-09-01T07:42:10",
+      "statut": [
+        "A louer"
+      ],
+      "type": [
+        "Bureau et local"
+      ],
+      "localisation": [
+        "Les berges du lac"
+      ],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "6000 DT",
+      "adresse": "Tunis, La Marsa, Les berges du lac 1",
+      "details": {
+        "Surface habitable": "140 m²",
+        "Chambres à coucher": "1"
+      },
+      "description": "Confort immo met à la location ou a la vente un local commercial de 140m2 aménagé et bien placé avec double façade aux berges du lac1 avec une grande terrasse sur une artère principale\n\nOption1 : gérance libre 6000dt\n\nOption2 : vente du fond de commerce",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_840642_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_840637_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_840638_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_840639_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_840641_property_xlarge-1.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_840643_property_xlarge-1.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_840644_property_xlarge-1.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_840643_property_xlarge.jpeg"
+      ]
+    },
+    {
+      "id": 5212,
+      "titre": "VILLA MUTUELLEVILLE A LOUER HABITATION OU BUREAUTIQUE",
+      "url": "https://confort.immo/property/villa-mutuelleville-a-louer-habitation-ou-bureautique",
+      "date_publication": "2025-06-12T21:30:47",
+      "date_modification": "2025-09-01T07:51:33",
+      "statut": [
+        "A louer"
+      ],
+      "type": [
+        "Villa"
+      ],
+      "localisation": [
+        "Mutuelle Ville"
+      ],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "6000 DT",
+      "adresse": "Tunis, El Menzah, Mutuelle Ville",
+      "details": {},
+      "description": "LOCATION VILLA BUREAUTIQUE OU HABITATION A MUTUELLEVILLE\n\nConfort Immo propose à la location habitation ou bien bureautique une villa s+4 avec jardin d’une superficie de 550m² bien situé a Mutuelleville .\n\nElle se compose comme suit:\n\n-Hall d’entrée, salle d’eau invité\n\n-Suite avec baingoire \n\nAU Rez de jardin :\n\n-2 chambres avec salle de bain \n\nAU Demi étage:\n\n-Salon avec double hauteur avec une grande terrasse\n\n-Salle a manger\n\n-Cuisine\n\n-Placard débarras\n\n-Chambre service avec wc\n\nA l’Étage\n\nSuite parentale avec dressing et salle de bain avec douche et bain\n\nPour plus de détails veuillez nous contacter:",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_855820_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_855844_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_855852_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_855823_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_855824_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_855830_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_855838_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_855840_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_855841_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_855849_property_xlarge.jpeg"
+      ]
+    },
+    {
+      "id": 5201,
+      "titre": "APPARTEMENT S+5 MEUBLE AU BERGES DU LAC 1",
+      "url": "https://confort.immo/property/appartement-s5-meuble-au-berges-du-lac-1",
+      "date_publication": "2025-06-12T21:29:19",
+      "date_modification": "2025-09-01T07:42:15",
+      "statut": [
+        "A louer"
+      ],
+      "type": [
+        "Appartement"
+      ],
+      "localisation": [
+        "Les berges du lac"
+      ],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "3900 DT",
+      "adresse": "Tunis, La Marsa, Les berges du lac 1",
+      "details": {
+        "Surface habitable": "200 m²",
+        "Chambres à coucher": "5"
+      },
+      "description": "",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_889874_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_889856_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_889861_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_889863_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_889843_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_889857_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_889862_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_889867_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_889868_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_889875_property_xlarge.jpeg"
+      ]
+    },
+    {
+      "id": 5192,
+      "titre": "LOCAL COMMERCIAL A LOUER MENZAH 8",
+      "url": "https://confort.immo/property/local-commercial-a-louer-menzah-8",
+      "date_publication": "2025-06-12T21:27:55",
+      "date_modification": "2025-07-23T19:48:46",
+      "statut": [
+        "A louer"
+      ],
+      "type": [
+        "Bureau et local"
+      ],
+      "localisation": [
+        "Menzah"
+      ],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "5500 DT",
+      "adresse": "Ariana, Ariana Ville, El Menzah 8",
+      "details": {
+        "Surface habitable": "300 m²",
+        "Chambres à coucher": "2"
+      },
+      "description": "LOCAL COMMERCIAL A LOUER OU A VENDRE A MENZAH 8\n\nCONFORT IMMO propose à la location ou bien la vente d’un local commercial d’une superrficie de 300m² et une terrasse d’environ 400m²,\n\navec un emplacement strategique sur artére principale prés de 3 banques a Menzah 8.\n\nsuperficie: Au rez de chaussé : 200m²\n\nA l’etage : 100m²\n\nterrasse : environ 400m²\n\nprix de loyer : 5500dt/ mois\n\nprix de vente : 5000dt /m²\n\npour plus de détails veuillez nous contacter",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_890123_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_890125_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_890121_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_890122_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_890122_property_xlarge-1.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_890124_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_890126_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_890127_property_xlarge.jpeg"
+      ]
+    },
+    {
+      "id": 5181,
+      "titre": "Location Appartement S+1 Meuble La Marsa Stade",
+      "url": "https://confort.immo/property/location-appartement-s1-meuble-la-marsa-stade",
+      "date_publication": "2025-06-12T21:25:46",
+      "date_modification": "2025-09-01T07:37:06",
+      "statut": [
+        "A louer"
+      ],
+      "type": [
+        "Appartement"
+      ],
+      "localisation": [
+        "La marsa"
+      ],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "3200 DT",
+      "adresse": "Tunis, La Marsa, Cite Du Stade",
+      "details": {
+        "Surface habitable": "70 m²"
+      },
+      "description": "Location Appartement S+1 Meuble La Marsa Stade\n\nConfort Immo Propose à la location un appartement s+1 haut standing meublé bien situé dans une résidence sécurisée à la Marsa Stade.\n\nIl se compose :\n\n-Salon\n\n-Cuisine ouverte équipée\n\n-Chambre\n\n-Salle de douche\n\n-Une Place de parking Sous-sol disponible\n\nPour plus de détails veuillez nous contacter",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_917568_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_917562_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_917567_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_917569_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_917570_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_917571_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_917572_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_917574_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_917575_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_917580_property_xlarge.jpeg"
+      ]
+    },
+    {
+      "id": 5170,
+      "titre": "Location VILLA KELIBIA",
+      "url": "https://confort.immo/property/location-villa-kelibia",
+      "date_publication": "2025-06-12T21:24:10",
+      "date_modification": "2025-09-01T07:37:26",
+      "statut": [
+        "A louer"
+      ],
+      "type": [
+        "Villa"
+      ],
+      "localisation": [
+        "Kelibia"
+      ],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "6000 DT",
+      "adresse": "Nabeul, Kelibia, Kelibia",
+      "details": {
+        "Surface habitable": "300 m²",
+        "Chambres à coucher": "3"
+      },
+      "description": "Location d’une villa à Kelibia\n\nConfortImmo, met à la location une villa atypique au centre du village de Kelibia, cette villa est bien meublée et totalement fournie en meubles, vaisselles et linges de maison de luxe.\n\nElle est composée comme suit:\n\nAu Rdc:\n\n– Trois salons aménagés, une grande salle a manger qui peut contenir jusqu’à 12 personnes\n\n– Un grand patio en marbre avec une fontaine\n\n– Une grande cuisine entièrement équipée et aménagée avec coin repas.\n\nA l’étage: Bloc de Nuit\n\n– Une grande chambre avec dressing.\n\n– Salle de bain avec doubles vasques.\n\n– Deux chambres a coucher avec salle de douche.\n\nL’autre bloc\n\n– Terrasse aménagée qui donne sur le Patio\n\n-Local technique chaudière\n\nAu deuxième étage:\n\n– Une Cuisine de service\n\n– Buanderie\n\n– salle d’eau invités\n\n– Terrasse\n\nCette villa possède une vue dégagée sur toute la ville, elle est équipée par du chauffage central et de la climatisation en split.",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_920081_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_920049_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_920052_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_920061_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_920051_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_920054_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_920055_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_920056_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_920059_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_920057_property_xlarge.jpeg"
+      ]
+    },
+    {
+      "id": 5159,
+      "titre": "location s+2 meublé la marsa",
+      "url": "https://confort.immo/property/location-s2-meuble-la-marsa",
+      "date_publication": "2025-06-12T21:22:30",
+      "date_modification": "2025-09-01T07:37:36",
+      "statut": [
+        "A louer"
+      ],
+      "type": [
+        "Appartement"
+      ],
+      "localisation": [
+        "La marsa"
+      ],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "3000 DT",
+      "adresse": "Tunis, La Marsa",
+      "details": {
+        "Chambres à coucher": "2"
+      },
+      "description": "À Louer : Appartement S+2 Meublé à La Marsa\n\nConfort Immo vous propose à la location un appartement S+2 meublé situé au 1er étage d’une résidence bien située à La Marsa Ville, à proximité du centre.\n\nDescription de l’appartement :\n\nSalon spacieux : Un espace accueillant pour vos moments de détente.\n\nCuisine équipée : Fonctionnelle et prête à l’emploi pour préparer vos repas.\n\n2 chambres à coucher : Confortables et lumineuses, idéales pour se reposer.\n\nSalle de douche : Moderne et pratique.\n\nNe manquez pas cette opportunité de vivre dans un quartier agréable et dynamique. Pour plus d’informations ou pour planifier une visite, contactez-nous dès aujourd’hui !\n\nTel/whatsapp : (+216) 90 31 39 31 / 25 35 45 58",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_920366_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_920359_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_920350_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_920370_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_920357_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_920371_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_920372_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_920374_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_920339_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_920363_property_xlarge.jpeg"
+      ]
+    },
+    {
+      "id": 5148,
+      "titre": "Appartement s+4 a Mutuelleville",
+      "url": "https://confort.immo/property/appartement-s4-a-mutuelleville-2",
+      "date_publication": "2025-06-12T21:20:51",
+      "date_modification": "2025-09-01T07:51:25",
+      "statut": [
+        "A louer"
+      ],
+      "type": [
+        "Appartement"
+      ],
+      "localisation": [
+        "Mutuelle Ville"
+      ],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "4200 DT",
+      "adresse": "Tunis, El Menzah, Mutuelle Ville",
+      "details": {
+        "Surface habitable": "200 m²",
+        "Chambres à coucher": "2"
+      },
+      "description": "Location S+4 à mutuelleville coté PMF\n\nConfort Immo vous propose à la location un appartement S+4 occupant le 2ème et dernier étage d’une petite résidence R+2, idéalement situé à proximité de l’École Française.\n\nCaractéristiques de l’appartement :\n\n• Salon lumineux et salle à manger spacieuse\n\n• Séjour confortable\n\n• Salle d’eau pour les invités\n\n• Cuisine équipée avec séchoir\n\n• 3 suites (chambres avec salles de bain privatives)\n\n• 1 chambre service avec sa salle d eau\n\nÉquipements :\n\n• Climatisation centrale pour votre confort\n\n• Chauffage central`\n\n• Place de parking en sous-sol et sellier\n\nDe plus, profitez d’un magnifique rooftop offrant une vue dégagée sur tout Tunis, idéal pour se détendre.\n\nPour plus de détails ou pour organiser une visite, veuillez nous contacter au:\n\n 21 160 063 / 25 35 45 58\n\nNe manquez pas cette opportunité !",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1105926_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1105916_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1105919_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1105922_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1105925_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1105918_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1105920_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1105921_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1105923_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1105924_property_xlarge.jpeg"
+      ]
+    },
+    {
+      "id": 5137,
+      "titre": "APPARTEMENT S+2 GAMMARTH VUE MER",
+      "url": "https://confort.immo/property/appartement-s2-gammarth-vue-mer",
+      "date_publication": "2025-06-12T21:19:04",
+      "date_modification": "2025-09-01T07:44:39",
+      "statut": [
+        "A louer"
+      ],
+      "type": [
+        "Appartement"
+      ],
+      "localisation": [
+        "Gammarth"
+      ],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "4000 DT",
+      "adresse": "Tunis, La Marsa, Gammarth",
+      "details": {
+        "Surface habitable": "140 m²",
+        "Chambres à coucher": "2"
+      },
+      "description": "Location S2 Avec vue mer à Gammarth\n\nCONFORT IMMO vous propose à la location un appartement S2 de luxe, idéalement situé dans une petite résidence à Gammarth, offrant une vue dégagée sur la mer.\n\nCaractéristiques :\n\n• Salon spacieux\n\n• Salle à manger élégante\n\n• Balcon avec vue mer de loin\n\n• Cuisine totalement équipée avec séchoir\n\nCet appartement bénéficie également :\n\n• Chauffage central\n\n• Climatisation centrale\n\n• 2 places de parking\n\nPour plus de détails ou pour organiser une visite, veuillez nous contacter",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_937515_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_937503_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_937507_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_937508_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_937509_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_937510_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_937511_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_937513_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_937519_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_937506_property_xlarge.jpeg"
+      ]
+    },
+    {
+      "id": 5128,
+      "titre": "Location Triplex S+5 les berges du lac 1 (habitation ou bureautique)",
+      "url": "https://confort.immo/property/location-triplex-s5-les-berges-du-lac-1-habitation-ou-bureautique",
+      "date_publication": "2025-06-12T21:17:04",
+      "date_modification": "2025-09-01T07:42:23",
+      "statut": [
+        "A louer"
+      ],
+      "type": [
+        "Appartement"
+      ],
+      "localisation": [
+        "Les berges du lac"
+      ],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "3700 DT",
+      "adresse": "Tunis, La Marsa, Les berges du lac 1",
+      "details": {
+        "Surface habitable": "296 m²",
+        "Chambres à coucher": "5"
+      },
+      "description": "Triplex aux Berges du Lac 1 (Usage bureautique ou habitation)\n\nConfort Immo propose à la location un triplex au berges du lac 1.\n\nType : S+5\n\nLieu : Quartier résidentiel, Berges du Lac 1\n\nPrix : 3 700 DT/mois\n\nCe magnifique triplex, situé dans un quartier calme et sécurisé des Berges du Lac 1, est proposé à la location pour usage bureautique ou habitation. Il est réparti sur trois niveaux et comprend :\n\nRez-de-chaussée :\n\nSalon spacieux avec accès à une terrasse\n\nSéjour\n\nSalle d’eau pour les invités\n\nCuisine équipée\n\nÉtage :\n\n3 chambres (ou bureaux) confortables\n\nSalle de bain commune\n\nSuite parentale avec salle de bain privative\n\nSous-sol :\n\nGarage privé\n\nDébarras\n\nCe bien offre un espace polyvalent, parfait pour des bureaux professionnels ou une famille souhaitant un cadre de vie spacieux.\n\nPour plus d’informations ou pour organiser une visite, merci de nous contacter: 21 160 063",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_943989_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_943985_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_943986_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_943987_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_943982_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_943988_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_943990_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_943992_property_xlarge.jpeg"
+      ]
+    },
+    {
+      "id": 5119,
+      "titre": "LOCATION LUXUEUSE VILLA HAMAMMET PIED DANS L EAU",
+      "url": "https://confort.immo/property/location-luxueuse-villa-hamammet-pied-dans-l-eau",
+      "date_publication": "2025-06-12T21:15:13",
+      "date_modification": "2025-09-01T07:38:11",
+      "statut": [
+        "A louer"
+      ],
+      "type": [
+        "Villa"
+      ],
+      "localisation": [
+        "Hammamet"
+      ],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "1 DT",
+      "adresse": "Nabeul, Hammamet, yasmine hammamet",
+      "details": {
+        "Surface habitable": "500 m²",
+        "Chambres à coucher": "2"
+      },
+      "description": "LOCATION LUXUEUSE VILLA HAMAMMET PIED DANS L EAU\n\nConfort Immo vous propose à la location une somptueuse villa estivale de luxe située à Hammamet Nord, avec un accès direct à la mer.\n\nVenez découvrir cette villa exceptionnelle, idéale pour un séjour estival alliant raffinement et confort.\n\nCaractéristiques :\n\nPiscine privée\n\nVue imprenable sur la mer\n\nEspace repas sur la terrasse\n\nCoin barbecue dans le jardin\n\nGrande pelouse avec salon extérieur\n\nAccès direct à la plage\n\nRez-de-chaussée :\n\nSalon spacieux et salle à manger\n\nSalle d’eau pour invités\n\nSuite parentale confortable\n\nDouble cuisine entièrement équipée\n\nChambre de service\n\nÀ l’étage :\n\n4 suites élégantes avec balcons, offrant une vue splendide sur le jardin et la mer, dotées de tout le confort moderne\n\nTarif : Selon la durée et la période (courte ou longue durée).\n\nPour plus d’informations et réservations, contactez-nous dès maintenant !",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1059418_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1059419_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1059414_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1059423_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1059424_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1059427_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1059421_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1059426_property_xlarge.jpeg"
+      ]
+    },
+    {
+      "id": 5108,
+      "titre": "Appartement s+2 Gammarth supérieur",
+      "url": "https://confort.immo/property/appartement-s2-gammarth-superieur",
+      "date_publication": "2025-06-12T21:13:33",
+      "date_modification": "2025-09-01T07:44:47",
+      "statut": [
+        "A louer"
+      ],
+      "type": [
+        "Appartement"
+      ],
+      "localisation": [
+        "Gammarth"
+      ],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "4000 DT",
+      "adresse": "Tunis, La Marsa, Gammarth supérieur",
+      "details": {
+        "Surface habitable": "100 m²",
+        "Chambres à coucher": "2"
+      },
+      "description": "À Louer : Appartement Haut Standing à Gammarth Supérieur\n\nCONFORT IMMO vous propose un magnifique appartement de haut standing, situé dans une résidence prestigieuse à Gammarth Supérieur.\n\nComposition :\n\n– Salon avec balcon\n\n-Salle d’eau pour invités\n\n-Cuisine équipée : plaque, hotte, four, micro-ondes\n\n-Suite parentale avec dressing et salle de bain\n\n– Chambre à coucher\n\n– Salle d’eau avec douche\n\nCaractéristiques :\n\nChauffage central\n\nClimatisation centrale\n\nVidéophone\n\nParking en sous-sol\n\nEmplacement idéal, cadre calme et résidentiel !\n\nContactez-nous dès maintenant pour plus d’informations ou pour organiser une visite !",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1059683_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1059682_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1059688_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1059689_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1059680_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1059681_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1059690_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1059686_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1059679_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1059685_property_xlarge.jpeg"
+      ]
+    },
+    {
+      "id": 5097,
+      "titre": "Duplex meublé aux berges du lac 2",
+      "url": "https://confort.immo/property/duplex-meuble-aux-berges-du-lac-2",
+      "date_publication": "2025-06-12T21:11:30",
+      "date_modification": "2025-09-01T07:42:31",
+      "statut": [
+        "A louer"
+      ],
+      "type": [
+        "Appartement"
+      ],
+      "localisation": [
+        "Les berges du lac"
+      ],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "5700 DT",
+      "adresse": "Tunis, La Marsa, Les berges du lac 2",
+      "details": {
+        "Surface habitable": "100 m²",
+        "Chambres à coucher": "3"
+      },
+      "description": "À Louer : Duplex Meublé aux berges du Lac 2\n\nDécouvrez ce superbe duplex meublé situé dans un quartier prestigieux des berges du Lac 2.\n\nCaractéristiques du Duplex :\n\n– Rez-de-chaussée :\n\n*Salon spacieux\n\n*Salle à manger\n\n*Séjour avec accès jardin\n\n*Salle d’eau pour invités\n\n*Cuisine entièrement équipée\n\n*Séchoir\n\n– Étage :\n\n*2 chambres avec salle de bain\n\n*Suite parentale avec salle de bain privée\n\nÉquipements & Commodités :\n\n✔ Caméra de surveillance\n\n✔ Machine à laver le linge & vaisselle\n\n✔ Mobilier moderne et élégant\n\n✔ Place de parking en sous-sol\n\n✔ Place de parking extérieur\n\nloyer 5700 dt / mois y compris STEG ET SYNDIC\n\n Localisation : Lac 2\n\n Contactez-nous pour plus d’informations ou une visite !",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1060077_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1060081_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1060082_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1060088_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1060090_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1060096_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1060091_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1060093_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1060094_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1060095_property_xlarge.jpeg"
+      ]
+    },
+    {
+      "id": 5086,
+      "titre": "villa Gammarth avec piscine",
+      "url": "https://confort.immo/property/villa-gammarth-avec-piscine",
+      "date_publication": "2025-06-12T21:09:40",
+      "date_modification": "2025-09-01T07:44:53",
+      "statut": [
+        "A louer"
+      ],
+      "type": [
+        "Villa"
+      ],
+      "localisation": [
+        "Gammarth"
+      ],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "7000 DT",
+      "adresse": "Tunis, La Marsa, Gammarth",
+      "details": {
+        "Surface habitable": "200 m²",
+        "Chambres à coucher": "3"
+      },
+      "description": "À LOUER – Villa de Prestige à Gammarth\n\nNous vous proposons à la location une magnifique villa sur 3 niveaux avec jardin et piscine privée, située dans un quartier résidentiel prisé de Gammarth.\n\nCaractéristiques du bien :\n\n Rez-de-chaussée :\n\nSpacieux salon offrant une belle vue sur la piscine\n\n Salle d’eau pour les invités\n\n Cuisine moderne équipée (plaque, hotte, four, micro-ondes, réfrigérateur, lave-vaisselle)\n\n Étage :\n\n Un Hall de réception\n\nUne suite parentale avec terrasse, dressing, salle de douche et toilette\n\nDeux chambres à coucher avec une salle de bain commune.\n\n Sous-sol :\n\n Grand débarras\n\n Salle de douche\n\n Extérieur :\n\n Jardin verdoyant\n\n Piscine privée\n\n Garage avec porte électrique\n\n Emplacement privilégié : Quartier résidentiel calme, proche de la mer, des commodités et des écoles internationales.\n\n Loyer : 7500dt/mois\n\n Contactez-nous dès maintenant pour une visite !",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1062070_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1062091_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1062092_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1062093_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1062096_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1062106_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1062095_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1062097_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1062098_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1062094_property_xlarge.jpeg"
+      ]
+    },
+    {
+      "id": 5075,
+      "titre": "Appartement s+3 avec jardin aux berges du lac 1",
+      "url": "https://confort.immo/property/appartement-s3-avec-jardin-aux-berges-du-lac-1",
+      "date_publication": "2025-06-12T21:07:51",
+      "date_modification": "2025-09-01T07:42:37",
+      "statut": [
+        "A louer"
+      ],
+      "type": [
+        "Appartement"
+      ],
+      "localisation": [
+        "Les berges du lac"
+      ],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "3500 DT",
+      "adresse": "Tunis, La Marsa, Les berges du lac 1",
+      "details": {
+        "Surface habitable": "200 m²",
+        "Chambres à coucher": "3"
+      },
+      "description": "Appartement S+3 avec Jardin – Rez-de-chaussée – Berges du Lac 1\n\nConfort Immo vous propose à la location annuelle un élégant appartement S+3 au rez-de-chaussée d’une résidence sécurisée et bien gardée, idéalement située aux Berges du Lac 1.\n\nCet appartement de haut standing offre un cadre de vie confortable et se compose comme suit :\n\nHall d’entrée\n\nSalon lumineux ouvrant directement sur un jardin privatif\n\nCuisine équipée avec chambre de service attenante\n\nSalle d’eau invités avec douche\n\nSuite parentale avec salle de bain privative\n\nDeux chambres à coucher\n\nSalle de bain commune\n\nDeux places de parking en sous-sol\n\nPrestations & confort :\n\nChauffage central, climatisation centrale, vidéophone, système d’alarme.\n\nConditions de location :\n\nDeux mois de caution\n\nPaiement trimestriel\n\nPour plus de renseignements ou pour planifier une visite, contactez-nous dès maintenant.",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1062394_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1062396_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1062401_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1062386_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1062393_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1062399_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1062389_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1062379_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1062405_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1062402_property_xlarge.jpeg"
+      ]
+    },
+    {
+      "id": 5064,
+      "titre": "penthouse aux jardins d carthage",
+      "url": "https://confort.immo/property/penthouse-aux-jardins-d-carthage",
+      "date_publication": "2025-06-12T21:05:26",
+      "date_modification": "2025-09-01T07:40:11",
+      "statut": [
+        "A louer"
+      ],
+      "type": [
+        "Appartement"
+      ],
+      "localisation": [
+        "Carthage"
+      ],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "5200 DT",
+      "adresse": "Tunis, El Kram, Les jardins de Carthage",
+      "details": {
+        "Surface habitable": "100 m²",
+        "Chambres à coucher": "3"
+      },
+      "description": "penthouse aux jardins de carthage",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1078204_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1078206_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1078201_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1078207_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1078202_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1078203_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1078205_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1078208_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1078209_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1078210_property_xlarge.jpeg"
+      ]
+    },
+    {
+      "id": 5053,
+      "titre": "Location villa plain pied à Mutuelleville",
+      "url": "https://confort.immo/property/location-villa-plain-pied-a-mutuelleville",
+      "date_publication": "2025-06-12T21:03:19",
+      "date_modification": "2025-09-01T07:40:26",
+      "statut": [
+        "A louer"
+      ],
+      "type": [
+        "Villa"
+      ],
+      "localisation": [
+        "Mutuelle Ville"
+      ],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "4000 DT",
+      "adresse": "Tunis, El Menzah, Mutuelle Ville",
+      "details": {
+        "Surface habitable": "500 m²",
+        "Chambres à coucher": "3",
+        "Salle de bain": "1"
+      },
+      "description": "À Louer – Villa Plain-Pied à Mutuelleville\n\nSituée dans un quartier résidentiel calme et recherché de Mutuelleville, cette charmante villa plain-pied vous séduira par son cadre verdoyant et ses beaux volumes.\n\nCaractéristiques :\n\nSuperficie terrain : 500 m²\n\nSuperficie bâtie : 180 m²\n\n3 chambres à coucher spacieuses\n\n1 salle de bain commune\n\nSalon lumineux avec vue sur jardin\n\nCuisine entièrement équipée\n\nSalle d’eau pour invités\n\nGrand jardin arboré, idéal pour les moments de détente en plein air\n\nChambre au sous sol\n\nGarage fermé + abri pour deux voitures+ toilettes extérieures\n\nParfaitement adaptée à une famille, cette villa offre confort, intimité et proximité avec les commodités (écoles, commerces, axes principaux).\n\nDisponible immédiatement – Pour plus d’informations ou pour organiser une visite, n’hésitez pas à nous contacter.",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1065459_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1065465_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1065452_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1065447_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1065453_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1065454_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1065457_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1065455_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1065462_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1065464_property_xlarge.jpeg"
+      ]
+    },
+    {
+      "id": 5042,
+      "titre": "Penthouse aux berges du lac 2 a louer",
+      "url": "https://confort.immo/property/penthouse-aux-berges-du-lac-2-a-louer",
+      "date_publication": "2025-06-12T21:01:10",
+      "date_modification": "2025-09-01T07:40:42",
+      "statut": [
+        "A louer"
+      ],
+      "type": [
+        "Appartement"
+      ],
+      "localisation": [
+        "Les berges du lac"
+      ],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "5300 DT",
+      "adresse": "Tunis, La Marsa, Les berges du lac 2",
+      "details": {
+        "Surface habitable": "201 m²",
+        "Chambres à coucher": "3"
+      },
+      "description": "À Louer Penthouse avec Vue Panoramique | Berges du Lac 2\n\n Confort Immo vous propose à la location un élégant penthouse partiellement rénové, situé au 3eme et dernier étage d’une résidence de standing aux Berges du Lac 2, avec une vue imprenable sur le lac.\n\nCaractéristiques :\n\nDouble salon lumineux avec salle à manger\n\nGrande terrasse de 150 m² avec vue dégagée sur le lac\n\nSalle d’eau pour les invités\n\nCuisine équipée avec séchoir\n\nChambre de service\n\nSuite parentale avec salle de bain privative\n\nDeux chambres à coucher supplémentaires\n\nSalle de douche commune\n\nDeux places de parking en sous-sol\n\nUn cellier\n\nSurface habitable : 201 m² + terrasse de 150 m²\n\nLoyer mensuel : 5500 DT\n\nPour plus d’informations ou pour planifier une visite, contactez-nous.",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1073433_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1073435_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1073442_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1073450_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1073428_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1073430_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1073440_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1073443_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1073446_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1073436_property_xlarge.jpeg"
+      ]
+    },
+    {
+      "id": 5031,
+      "titre": "LOCATION ESTIVALE HAMAMMET VUE MER",
+      "url": "https://confort.immo/property/location-estivale-hamammet-vue-mer",
+      "date_publication": "2025-06-12T20:59:17",
+      "date_modification": "2025-09-01T07:47:18",
+      "statut": [
+        "A louer"
+      ],
+      "type": [
+        "Villa"
+      ],
+      "localisation": [
+        "Hammamet"
+      ],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "1 DT",
+      "adresse": "Nabeul, Hammamet, Hammamet",
+      "details": {
+        "Surface habitable": "1000 m²",
+        "Chambres à coucher": "5"
+      },
+      "description": "LOCATION VILLA ESTIVAL HAMMAMET NORD AVEC VUE MER\n\n Location Estivale – Villa de Prestige Pieds dans l’Eau | Résidence Privée à Hammamet\n\nVivez une expérience unique dans cette somptueuse villa meublée située dans une résidence privée sécurisée, pieds dans l’eau, avec vue mer imprenable et piscine privée.\n\n* Rez-de-chaussée :\n\nSuite avec coin séjour\n\nSalle d’eau pour invités\n\nChambre enfant avec 2 lits une place et salle de douche\n\nSalon spacieux et salle à manger\n\nCuisine équipée avec coin repas\n\nChambre de service avec salle d’eau\n\nGarage pour 4 voitures\n\nGrande terrasse aménagée\n\nCoin repas extérieur\n\nDeux salons de jardin\n\nCoin baroque extérieur\n\nPiscine avec vue sur la mer\n\n* À l’étage :\n\n4 grandes suites confortables avec salle de bain privative\n\n Villa entièrement meublée & bien équipée\n\n Tarif : selon la période et la durée du séjour\n\nPrix par Durée de location :\n\n– Juillet : 55.000 dt\n\n– DU 1er AU 15 Juillet: 28.000dt\n\n– DU 16 AU 31 Juillet : 28.000dt\n\n– Juin / Septembre : 12.000dt/semaine\n\n Contactez-nous en privé pour plus d’informations ou pour réserver dès maintenant.",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1073711_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1073692_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1073706_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1073708_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1073746_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1073747_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1073749_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1073709_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1073748_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1073830_property_xlarge.jpeg"
+      ]
+    },
+    {
+      "id": 5024,
+      "titre": "APPARTEMENT S+2 MEUBLE LA MARSA VILLE",
+      "url": "https://confort.immo/property/appartement-s2-meuble-la-marsa-ville",
+      "date_publication": "2025-06-12T20:56:56",
+      "date_modification": "2025-09-01T07:48:48",
+      "statut": [
+        "A louer"
+      ],
+      "type": [
+        "Villa"
+      ],
+      "localisation": [
+        "La marsa"
+      ],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "3100 DT",
+      "adresse": "Tunis, La Marsa, Marsa ville",
+      "details": {
+        "Surface habitable": "120 m²",
+        "Chambres à coucher": "2"
+      },
+      "description": "À LOUER – S+2 Meublé à La Marsa Ville \n\nConfort, calme et emplacement stratégique !\n\nS+2 meublé au rez-de-chaussée\n\n Petit jardin privé\n\n90 m² net / 120 m² total\n\nPlace de parking au sous-sol\n\nDispo dès le 1er juin\n\n3100 DT avec syndic\n\n Idéal pour un couple ou une petite famille à la recherche de confort dans un quartier calme et bien situé à La Marsa.\n\n Contactez-moi en MP pour plus d’infos ou une visite !",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1074784_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1074776_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1074780_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1074781_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1074783_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1074779_property_xlarge.jpeg"
+      ]
+    },
+    {
+      "id": 5004,
+      "titre": "appartement s+2 cite wahat",
+      "url": "https://confort.immo/property/appartement-s2-cite-wahat",
+      "date_publication": "2025-06-12T20:53:21",
+      "date_modification": "2025-09-01T07:53:45",
+      "statut": [
+        "A louer"
+      ],
+      "type": [
+        "Appartement"
+      ],
+      "localisation": [
+        "L’aouina"
+      ],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "1200 DT",
+      "adresse": "Tunis, El Aouina, El Aouina",
+      "details": {
+        "Surface habitable": "100 m²",
+        "Chambres à coucher": "2"
+      },
+      "description": "Location appartement s2 cite wahat\n\nCONFORT IMMOO vous propose la Location d’un appartement s2 au rez-de-chaussée dans une résidence bien gardée à Cité El Wahat L’aouina.\n\n-Un salon\n\n-Une cuisine avec balcon\n\n-02 chambres à coucher\n\n-Une salle d’eau\n\n-Une place de parking\n\nPour plus d’informations veuillez nous contacter",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1081584_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1081588_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1081580_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1081581_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1081582_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1081587_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1081583_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1081585_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1081586_property_xlarge.jpeg"
+      ]
+    },
+    {
+      "id": 4993,
+      "titre": "APPARTEMENT S+3 LOCATION GAMMARTH SUPERIEUR",
+      "url": "https://confort.immo/property/appartement-s3-location-gammarth-superieur",
+      "date_publication": "2025-06-12T20:51:07",
+      "date_modification": "2025-09-01T07:45:07",
+      "statut": [
+        "A louer"
+      ],
+      "type": [
+        "Appartement"
+      ],
+      "localisation": [
+        "Gammarth"
+      ],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "2300 DT",
+      "adresse": "Tunis, La Marsa, Gammarth",
+      "details": {
+        "Surface habitable": "100 m²",
+        "Chambres à coucher": "3"
+      },
+      "description": "À LOUER – Appartement S+3 à Gammarth Supérieur\n\nÀ louer un spacieux appartement S+3 situé dans un quartier calme et résidentiel à Gammarth Supérieur.\n\n-Caractéristiques :\n\n-Salon lumineux\n\n3 chambres à coucher\n\nCuisine équipée\n\nGarage pour 2 voitures\n\nRésidence sécurisée\n\nEmplacement : Gammarth Supérieur\n\nLoyer : 2 300 DT / mois\n\nParfait pour un cadre de vie paisible, proche de toutes les commodités.\n\n Pour plus d’informations ou pour planifier une visite, n’hésitez pas à nous contacter.",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1087413_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1087412_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1087421_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1087422_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1087428_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1087409_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1087417_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1087420_property_xlarge.jpeg"
+      ]
+    },
+    {
+      "id": 4978,
+      "titre": "appartement s2 Meublé la Marsa zephyr",
+      "url": "https://confort.immo/property/appartement-s2-meuble-la-marsa-zephyr",
+      "date_publication": "2025-06-12T20:48:50",
+      "date_modification": "2025-09-01T07:48:54",
+      "statut": [
+        "A louer"
+      ],
+      "type": [
+        "Villa"
+      ],
+      "localisation": [
+        "La marsa"
+      ],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "4000 DT",
+      "adresse": "Tunis, La Marsa, Marsa ville",
+      "details": {
+        "Surface habitable": "100 m²",
+        "Chambres à coucher": "2"
+      },
+      "description": "À LOUER – S+2 Meublé Plain-Pied Indépendant à La Marsa Plage (Face à Zephyr)\n\nÀ louer un charmant S+2 meublé, plain-pied et totalement indépendant, situé à La Marsa Plage, juste en face du centre commercial Zephyr.\n\n– Aucun voisin au-dessus ni en dessous – tranquillité assurée !\n\n– Emplacement exceptionnel, à quelques pas de la plage et de toutes commodités.\n\n-Caractéristiques :\n\n-2 chambres à coucher\n\n-Salon confortable\n\n-Cuisine équipée\n\n-Logement entièrement meublé\n\n-Entrée indépendante\n\n-Plain-pied sans vis-à-vis\n\nLocalisation : La Marsa Plage – Face à Zephyr\n\nLoyer : 4 000 DT / mois\n\n Contactez-nous dès maintenant pour organiser une visite !",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1087509_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1087512_property_xlarge-1.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1087510_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1087513_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1087514_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1087515_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1087516_property_xlarge-1.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1087518_property_xlarge-1.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1087519_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1087520_property_xlarge-1.jpeg"
+      ]
+    },
+    {
+      "id": 4971,
+      "titre": "bureau h+3 centre urbain nord",
+      "url": "https://confort.immo/property/bureau-h3-centre-urbain-nord",
+      "date_publication": "2025-06-12T20:46:12",
+      "date_modification": "2025-09-01T07:58:38",
+      "statut": [
+        "A louer"
+      ],
+      "type": [
+        "Bureau de Commerces"
+      ],
+      "localisation": [
+        "Cite El Khadra"
+      ],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "2800 DT",
+      "adresse": "Tunis, Cite El Khadra, Zone urbaine nord",
+      "details": {},
+      "description": "LOCATION BUREAU H+3 CENTRE URBAIN NORD\n\nOn vous propose à la location un #bureau de type H+3 proposé à la #Location, idéalement situé au cœur du CENTRE URBAIN NORD.\n\n*Caractéristique du bureau :\n\n -Une réception accueillante.\n\n -Trois bureaux lumineux et fonctionnels.\n\n -Deux salles d’eau\n\n -Kitchenette\n\n -Connexion fibre optique.\n\n -Une place de parking sous-sol\n\n -Le bureau est équipé de la climatisation chaud et froid.",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1093740_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1093739_property_xlarge-1.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1093741_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1093742_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_1093739_property_xlarge.jpeg"
+      ]
+    },
+    {
+      "id": 4957,
+      "titre": "VILLA LES BERGES DU LAC 2",
+      "url": "https://confort.immo/property/villa-les-berges-du-lac-2",
+      "date_publication": "2025-06-12T20:43:51",
+      "date_modification": "2025-09-01T07:42:54",
+      "statut": [
+        "A louer"
+      ],
+      "type": [
+        "Villa"
+      ],
+      "localisation": [
+        "Les berges du lac"
+      ],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "12000 DT",
+      "adresse": "Tunis, La Marsa, Les berges du lac 2",
+      "details": {
+        "Surface habitable": "600 m²",
+        "Chambres à coucher": "4"
+      },
+      "description": "Nous mettons à la location une villa indépendante bâtie sur un terrain de 600m² à usage d’habitation ou bureautique trés bien située avec un accès facile au berges du lac 2.\n\nsur 3 niveaux elle se compose comme suit:\n\nrez-de-chaussée: jardin , piscine\n\nhall, séjour, salon, salle a manger, salon d’hiver, suite invitée avec salle de bain, salle d’eau invitées, cuisine.\n\nSous-sol: 2 places parking en intérieur, 2 places en extérieur, suite pour le personnel, salle de jeux, débarras, cuisine , buanderie.\n\nA l’étage: on trouve la suite parentale avec salle de bain dressing et une autre chambre avec balcon vue sur lac.\n\n2 chambres a coucher, salle de bain avec douche et baignoire.",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_795991_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_796003_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_796001_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_796000_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_795999_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_795998_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_795997_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_795996_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_795995_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_795992_property_xlarge.jpeg"
+      ]
+    },
+    {
+      "id": 4946,
+      "titre": "ENTREPOT ZONE INDISTRUEL SIDI DAOUD LA MARSA",
+      "url": "https://confort.immo/property/entrepot-zone-indistruel-sidi-daoud-la-marsa",
+      "date_publication": "2025-06-12T20:40:53",
+      "date_modification": "2025-09-01T07:49:05",
+      "statut": [
+        "A louer"
+      ],
+      "type": [
+        "Bureau de Commerces"
+      ],
+      "localisation": [
+        "La marsa"
+      ],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "16000 DT",
+      "adresse": "Tunis, La Marsa",
+      "details": {
+        "Surface habitable": "1900 m²"
+      },
+      "description": "Location d’un Entrepôt à Sidi Daoud\n\nOn vous propose à la location, un entrepôt de 1900m² très bien situé à la zone industrielle Sidi Daoud La Marsa.\n\nIl est réparti sur deux niveaux comme suit:\n\n-Rdc: 440m² en Open Space avec monte charge qui supporte 1.5 tonnes avec une entrée de 5m pour les camions.\n\n-étage: 1460m² en Open Space avec cinq bureaux et deux WC.\n\npour plus de détails: 21 160 063 / 25 354 558/ 29 795 748",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_805207_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_805216_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_805215_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_805214_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_805213_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_805212_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_805211_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_805210_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_805209_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_805208_property_xlarge.jpeg"
+      ]
+    },
+    {
+      "id": 4931,
+      "titre": "BUREAU LA MARSA",
+      "url": "https://confort.immo/property/bureau-la-marsa",
+      "date_publication": "2025-06-11T23:03:02",
+      "date_modification": "2025-09-01T07:49:11",
+      "statut": [
+        "A louer"
+      ],
+      "type": [
+        "Bureau de Commerces"
+      ],
+      "localisation": [
+        "La marsa"
+      ],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "2700 DT",
+      "adresse": "Ariana, La Soukra, La Soukra",
+      "details": {
+        "Surface habitable": "142 m²",
+        "Chambres à coucher": "1"
+      },
+      "description": "confort immo vous propose la location un bureau de 142m² situé au 2éme étage d’un centre d’affaire avec parking public à l’entrée de la Marsa.\n\nIl se compose d’un vaste Open Space, de deux bureau, d’une kitchenette et de deux WC.\n\npour plus de détails veuillez nous contacter",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_796826_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_796823_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_796827_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_796829_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_796830_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_796834_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_796828_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_796831_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_796832_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_796836_property_xlarge.jpeg"
+      ]
+    },
+    {
+      "id": 4920,
+      "titre": "APPARTEMENT S+2 MEUBLE LA MARSA",
+      "url": "https://confort.immo/property/appartement-s2-meuble-la-marsa",
+      "date_publication": "2025-06-11T23:01:16",
+      "date_modification": "2025-09-01T07:49:17",
+      "statut": [
+        "A louer"
+      ],
+      "type": [
+        "Appartement"
+      ],
+      "localisation": [
+        "La marsa"
+      ],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "2600 DT",
+      "adresse": "Tunis, La marsa",
+      "details": {
+        "Surface habitable": "100 m²",
+        "Chambres à coucher": "2"
+      },
+      "description": "Location Appartement s+2 meublé la marsa\n\nconfort immo propose à la location un appartement S+2 meublé occupant le 1er étage d’une résidence bien situé à la marsa ville .\n\nil se compose comme suit :\n\nsalon\n\ncuisine équipée\n\n2 chambres a coucher\n\nsalle de douche\n\nPour plus de détails veuillez nous contacter",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_800021_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_800020_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_800012_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_800014_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_800015_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_800017_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_800018_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_800013_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_800019_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_800022_property_xlarge.jpeg"
+      ]
+    },
+    {
+      "id": 4917,
+      "titre": "LOCAL LES BERGE DU LAC 1",
+      "url": "https://confort.immo/property/local-les-berge-du-lac-1",
+      "date_publication": "2025-06-11T22:59:26",
+      "date_modification": "2025-09-01T07:43:00",
+      "statut": [
+        "A louer"
+      ],
+      "type": [
+        "Bureau de Commerces"
+      ],
+      "localisation": [
+        "Les berges du lac"
+      ],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "8500 DT",
+      "adresse": "Tunis, Les berges du Lac",
+      "details": {
+        "Surface habitable": "100 m²"
+      },
+      "description": "Location Local Commercial au Lac 1\n\nConfort immo propose à la location un local commercial tous commerce d’une superficie de 100m² bien situé sur un artère principal au lac 1.\n\nlocation :8500dt\n\npas de porte: 150.000dt\n\npour plus de détails veuillez nous contacter",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_800024_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_800023_property_xlarge.jpeg"
+      ]
+    },
+    {
+      "id": 4906,
+      "titre": "Villa Indépendante à Gammarth supérieur",
+      "url": "https://confort.immo/property/villa-independante-a-gammarth-superieur",
+      "date_publication": "2025-06-11T22:58:15",
+      "date_modification": "2025-09-01T07:45:16",
+      "statut": [
+        "A louer"
+      ],
+      "type": [
+        "Villa"
+      ],
+      "localisation": [
+        "Gammarth"
+      ],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "7500 DT",
+      "adresse": "Tunis, Gammarth",
+      "details": {
+        "Surface habitable": "800 m²",
+        "Chambres à coucher": "4"
+      },
+      "description": "A louer à Gammath sup coté café journal, une villa indépendante bâtie sur trois niveaux avec jardin et piscine.\n\nElle comprend un vaste salon, salle a manger, cuisine, salle d’eau, deux suites, deux chambres avec une salle de bain commune, un rez de jardin et un garage.",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_800901_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_800893_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_800898_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_800903_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_800913_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_800892_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_800900_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_800904_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_800906_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_800907_property_xlarge.jpeg"
+      ]
+    },
+    {
+      "id": 4900,
+      "titre": "Duplex à La Marsa",
+      "url": "https://confort.immo/property/duplex-a-la-marsa",
+      "date_publication": "2025-06-11T22:56:30",
+      "date_modification": "2025-09-01T07:49:23",
+      "statut": [
+        "A louer"
+      ],
+      "type": [
+        "Appartement"
+      ],
+      "localisation": [
+        "La marsa"
+      ],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "7500 DT",
+      "adresse": "Tunis, La marsa",
+      "details": {
+        "Surface habitable": "200 m²",
+        "Chambres à coucher": "3"
+      },
+      "description": "Nous vous proposons a la location, un duplex neuf jamais habité avec jardin et piscine à La Marsa.\n\nIl comprend, un salon avec une cuisine ouverte, une salle d’eau invités, una jardin et une piscine,\n\nA l’étage, une suite parentale , deux chmbres a coucher et une salle de bain commune.",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_823332_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_823341_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_823372_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_823375_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_823366_property_xlarge.jpeg"
+      ]
+    },
+    {
+      "id": 4887,
+      "titre": "LOCATION villa jumelée la Soukra",
+      "url": "https://confort.immo/property/location-villa-jumelee-la-soukra",
+      "date_publication": "2025-06-11T22:55:06",
+      "date_modification": "2025-09-01T07:46:21",
+      "statut": [
+        "A louer"
+      ],
+      "type": [
+        "Villa"
+      ],
+      "localisation": [
+        "Soukra"
+      ],
+      "etiquettes": [],
+      "equipements": [],
+      "materiaux": [],
+      "prix": "2550 DT",
+      "adresse": "Tunis, La Soukra",
+      "details": {
+        "Surface habitable": "200 m²",
+        "Chambres à coucher": "3"
+      },
+      "description": "Confort immo met à la location une villa jumelée dans une belle résidence fermée à la Soukra Yakout el Hamaoui.\n\nElle se compose comme suit:\n\nAu rez-de-chaussée:\n\n-Un beau salon, salle a manger qui donne sur une belle terrasse et jardin.\n\n-Une salle d’eau invitées, une cuisine avec sechoir.\n\n-Une chambre de service avec salle de douche .\n\nA l’etage :\n\n-3 suites\n\nLa villa est équipée par du chauffage central, de la climatisation en split et d’un système d’alarme.\n\nainsi qu’un garage pour une voiture\n\nPour plus de détails et visite veuillez nous contacter",
+      "photos": [
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_830590_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_830581_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_830582_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_830598_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_830604_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_830580_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_830585_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_830586_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_830589_property_xlarge.jpeg",
+        "https://confort.immo/wp-content/uploads/2025/06/thumb_830592_property_xlarge.jpeg"
+      ]
+    }
+  ]
+}
