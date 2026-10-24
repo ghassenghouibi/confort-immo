@@ -1,11 +1,12 @@
 import { useEffect, useMemo, useState } from 'react'
 import { Link, useParams, useSearchParams } from 'react-router-dom'
 import PropertyCard from '../components/PropertyCard'
-import { MapMock, Pagination } from '../components/Blocks'
+import { Pagination } from '../components/Blocks'
+import ListingsMap from '../components/ListingsMap'
 import { Chevron, Filter, Grid, Instagram, Map, Pin, Sparkle, TikTok, X } from '../components/Icons'
 import {
   BUDGETS_LOCATION, BUDGETS_VENTE, CATEGORIES, CATEGORY_LABEL, LISTINGS, RUBRIQUE_LABEL, RUBRIQUE_TITLE,
-  ZONES, applyFilters, formatPrice, zoneBySlug, zoneCount, type Filters, type Rubrique,
+  ZONES, applyFilters, zoneBySlug, zoneCount, type Filters, type Rubrique,
 } from '../lib/listings'
 import { VIDEO_REFS } from '../lib/videos'
 import { SOCIAL } from '../data/videos'
@@ -165,9 +166,9 @@ export default function Listings({ rubrique: fixed, favoritesOnly = false }: { r
             </div>
             <aside className="lp-side">
               <div className="card lp-map">
-                <MapMock pins={shown.slice(0, 6).map((l) => formatPrice(l).main)} height={560} />
+                <ListingsMap listings={shown} height={560} />
                 <div className="row between lp-map-foot">
-                  <span className="small muted">{Math.min(6, shown.length)} biens visibles sur la zone</span>
+                  <span className="small muted">{shown.length} biens visibles sur la zone</span>
                   <button className="btn btn-outline btn-sm">Chercher dans cette zone</button>
                 </div>
               </div>
