@@ -3,6 +3,7 @@ import { Link, useParams, useSearchParams } from 'react-router-dom'
 import PropertyCard from '../components/PropertyCard'
 import { Pagination } from '../components/Blocks'
 import ListingsMap from '../components/ListingsMap'
+import FinancingSimulator from '../components/FinancingSimulator'
 import { Chevron, Filter, Grid, Instagram, Map, Pin, Sparkle, TikTok, X } from '../components/Icons'
 import {
   BUDGETS_LOCATION, BUDGETS_VENTE, CATEGORIES, CATEGORY_LABEL, LISTINGS, RUBRIQUE_LABEL, RUBRIQUE_TITLE,
@@ -172,6 +173,7 @@ export default function Listings({ rubrique: fixed, favoritesOnly = false }: { r
                   <button className="btn btn-outline btn-sm">Chercher dans cette zone</button>
                 </div>
               </div>
+              {rubrique !== 'louer' && <FinancingSimulator />}
               <form className="card lp-alert" onSubmit={(e) => { e.preventDefault(); alert('Alerte activée ! Vous recevrez les nouveautés par e-mail.') }}>
                 <div className="row" style={{ gap: 8, fontWeight: 700 }}><Sparkle size={17} style={{ color: 'var(--blue)' }} /> Créer une alerte</div>
                 <p className="small muted mt-8">

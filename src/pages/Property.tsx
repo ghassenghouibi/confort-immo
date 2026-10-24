@@ -4,6 +4,7 @@ import Photo from '../components/Photo'
 import PropertyCard from '../components/PropertyCard'
 import { MapMock } from '../components/Blocks'
 import SatelliteMap from '../components/SatelliteMap'
+import FinancingSimulator from '../components/FinancingSimulator'
 import { EmbedFrame, VideoModal } from '../components/VideoPlayer'
 import { ArrowRight, Camera, Check, ChevronLeft, ChevronRight, Clock, Heart, Instagram, Phone, Pin, Play, PlayFilled, Share, TikTok, Tour, WhatsApp, X, Bag, School, Health, Bus, Leaf } from '../components/Icons'
 import { byId, formatPrice, pricePerM2, similar, zoneOf, RUBRIQUE_LABEL } from '../lib/listings'
@@ -309,6 +310,8 @@ export default function Property() {
               <div className="row small muted" style={{ gap: 6 }}><Clock size={14} /> Réponse pendant les horaires d'agence</div>
             </form>
           </div>
+
+          {!l.isLocation && <FinancingSimulator key={l.id} price={l.prix} />}
 
           <div className="row" style={{ gap: 10 }}>
             <button className={`btn btn-outline ${fav ? 'pp-fav-on' : ''}`} style={{ flex: 1 }} onClick={() => toggle(l.id)}>

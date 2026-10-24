@@ -21,6 +21,7 @@
 .lp-layout { display: grid; grid-template-columns: minmax(0, 1fr) 380px; gap: 28px; align-items: start; }
 .lp-side { display: flex; flex-direction: column; gap: 20px; position: sticky; top: 160px; }
 .lp-map { overflow: hidden; }
+.lp-side:has(.sat-full) { z-index: 1000; }
 .lp-map .mm { border: 0; border-radius: 0; }
 .lp-map-foot { padding: 14px 18px; }
 .lp-alert, .lp-social { padding: 22px 24px; }

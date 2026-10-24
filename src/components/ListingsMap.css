@@ -1,7 +1,7 @@
-.lm { position: relative; z-index: 0; background: #eef1f5; font: inherit; }
+.lm { font: inherit; }
 .lm .lm-pin-wrap { background: none; border: 0; }
 .lm .lm-pin { position: absolute; transform: translate(-50%, -100%); padding: 6px 10px; border-radius: var(--radius-sm); background: var(--navy); color: #fff; font-weight: 600; font-size: 12px; box-shadow: var(--shadow); white-space: nowrap; cursor: pointer; }
 .lm .lm-pin::after { content: ''; position: absolute; left: 50%; bottom: -6px; transform: translateX(-50%); border: 6px solid transparent; border-top-color: var(--navy); border-bottom: 0; }
 .lm .lm-pin.berry { background: var(--berry); }
 .lm .lm-pin.berry::after { border-top-color: var(--berry); }
-.lm .leaflet-control-attribution { font-size: 10.5px; }
+.lp-map .lm:not(.sat-full) { border-radius: 0; }
